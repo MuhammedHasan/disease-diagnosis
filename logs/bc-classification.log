@@ -1,0 +1,33 @@
+INFO:root:
+ Pipeline(steps=[('pca', PCA(copy=True, iterated_power='auto', n_components=None, random_state=None,
+  svd_solver='auto', tol=0.0, whiten=False)), ('clf', SVC(C=0.01, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=5, shrinking=True,
+  tol=0.001, verbose=False))])
+
+INFO:root:train accuracy: 0.906250
+INFO:root:test accuracy: 0.925926
+INFO:root:
+              precision    recall  f1-score   support
+
+         bc       0.89      1.00      0.94        31
+          h       1.00      0.83      0.90        23
+
+avg / total       0.93      0.93      0.92        54
+
+INFO:root:
+ Pipeline(steps=[('scaler', MetabolicStandardScaler()), ('pca', PCA(copy=True, iterated_power='auto', n_components=None, random_state=None,
+  svd_solver='auto', tol=0.0, whiten=False)), ('clf', SVC(C=0.01, cache_size=200, class_weight=None, coef0=0.0,
+  decision_function_shape=None, degree=3, gamma='auto', kernel='linear',
+  max_iter=-1, probability=False, random_state=5, shrinking=True,
+  tol=0.001, verbose=False))])
+
+INFO:root:train accuracy: 0.993750
+INFO:root:test accuracy: 0.981481
+INFO:root:
+              precision    recall  f1-score   support
+
+         bc       0.97      1.00      0.98        31
+          h       1.00      0.96      0.98        23
+
+avg / total       0.98      0.98      0.98        54
