@@ -13,10 +13,10 @@ class TestDiseaseClassifier(unittest.TestCase):
 
     def setUp(self):
         self.clf = DiseaseClassifier()
-        (X, y) = self.clf.read_data()
+        (X, y) = self.clf.read_all()
 
         (self.X_train, self.X_test, self.y_train, self.y_test) =  \
-            train_test_split(X, y, random_state=5)
+            train_test_split(X, y, random_state=0)
 
         self.clf.fit(self.X_train, self.y_train)
 
