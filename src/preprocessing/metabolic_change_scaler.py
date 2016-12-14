@@ -1,5 +1,3 @@
-import numpy as np
-
 from sklearn.base import TransformerMixin
 
 
@@ -18,13 +16,7 @@ class MetabolicChangeScaler(TransformerMixin):
 
     def transform(self, X, y=[]):
         '''0:no change  1:increase  -1:decrease'''
-        # if type(X) == np.ndarray:
-            # X = X.tolist()
-        for i in reversed(range(len(X))):
-            # if y[i] == 'h':
-                # X.pop(i)
-                # y.pop(i)
-                # continue
+        for i in range(len(X)):
             for j in range(len(X[i])):
                 if self._avgs[j] == X[i][j]:
                     X[i][j] = 0
