@@ -1,5 +1,10 @@
 import unittest
+
+from sklearn.feature_extraction import DictVectorizer
+
 from .metabolic_standard_scaler import MetabolicStandardScaler
+from .metabolic_change_scaler import MetabolicChangeScaler
+from .metabolic_solution_scaler import MetabolicSolutionScaler
 
 
 class TestMetabolicStandardScaler(unittest.TestCase):
@@ -14,3 +19,46 @@ class TestMetabolicStandardScaler(unittest.TestCase):
         expected_X = self.X
         transformed_X = self.scaler.transform(self.X, self.y).tolist()
         self.assertEqual(expected_X, transformed_X)
+
+
+class TestMetabolicChangeScaler(unittest.TestCase):
+
+    def setUp(self):
+        self.scaler = MetabolicChangeScaler()
+        self.X = [[10, -1,  3, 12],
+                  [-1, 10,  2,  1],
+                  [1,   1, -1,  3],
+                  [1,   1,  3,  5],
+                  [1,   1,  3,  0]]
+        self.y = ['bc', 'bc', 'bc', 'h', 'h']
+
+    def test_fit(self):
+        expected_avgs = [1, 1, 3, 5]
+        transformed_avgs = self.scaler.fit(self.X, self.y)._avgs
+        self.assertListEqual(expected_avgs, transformed_avgs)
+
+    def test_transform(self):
+        expected_X = [[1, -1,  0,  1],
+                      [-1, 1, -1, -1],
+                      [0,  0, -1, -1],
+                      [0,  0,  0,  0],
+                      [0,  0,  0, -1]]
+        self.scaler.fit(self.X, self.y)
+        transformed_X = self.scaler.transform(self.X, self.y)
+        self.assertListEqual(self.y, ['bc', 'bc', 'bc', 'h', 'h'])
+        self.assertListEqual(expected_X, transformed_X)
+
+
+class TestMetabolicSolutionScaler(unittest.TestCase):
+
+    def setUp(self):
+        self.data = [{'acon_C_c': 1}, ]
+        self.vict = DictVectorizer(sparse=False)
+        self.vict.fit(self.data)
+        self.scaler = MetabolicSolutionScaler(self.vict)
+
+    def test_get_solutions(self):
+        solutions = self.scaler.get_solutions(self.data)
+        self.assertNotEqual(len(solutions), 0)
+        self.assertNotEqual(len(solutions[0]), 0)
+        self.assertNotEqual(len(next(iter(solutions[0].values()))), 0)

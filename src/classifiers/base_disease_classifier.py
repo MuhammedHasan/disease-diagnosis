@@ -1,26 +1,15 @@
+import os
+
 import pandas as pd
-import numpy as np
 
-from sklearn.svm import SVC
-from sklearn.decomposition import PCA
-from sklearn.pipeline import Pipeline
 from sklearn.metrics import classification_report
-from sklearn.feature_extraction import DictVectorizer
-
-from preprocessing.metabolic_standard_scaler import MetabolicStandardScaler
 
 
-class DiseaseClassifier(object):
+class BaseDiseaseClassifier(object):
 
     def __init__(self):
         self.y_label = 'stage'
         self._model = object()
-        self._pipe = Pipeline([
-            ('vect', DictVectorizer(sparse=False)),
-            ('scaler', MetabolicStandardScaler()),
-            ('pca', PCA()),
-            ('clf', SVC(C=0.01, kernel='rbf', random_state=0))
-        ])
 
     def read_data(self, disease_name):
         df_bc = pd.read_csv('../dataset/%s.csv' % disease_name, header=0)
@@ -30,7 +19,7 @@ class DiseaseClassifier(object):
         return (X, y)
 
     def read_all(self):
-        disease_names = ['BC', 'HCC']
+        disease_names = [f[:-4] for f in os.listdir('../dataset')]
         (X, y) = (list(), list())
         for i in disease_names:
             (tX, ty) = self.read_data(i)
