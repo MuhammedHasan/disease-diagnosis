@@ -1,2 +1,3 @@
 from .metabolic_standard_scaler import MetabolicStandardScaler
 from .metabolic_change_scaler import MetabolicChangeScaler
+from .metabolic_solution_scaler import MetabolicSolutionScaler

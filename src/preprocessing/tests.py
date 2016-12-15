@@ -64,7 +64,7 @@ class TestMetabolicSolutionScaler(unittest.TestCase):
         self.assertNotEqual(len(next(iter(solutions[0].values()))), 0)
 
     def test_to_ecoli(self):
-        self.scaler.to_ecoli(self.vict.transform(self.data))
+        self.scaler.to_ecolin(self.vict.transform(self.data))
 
     def test__pathway_activation_score(self):
         solutions = [{
