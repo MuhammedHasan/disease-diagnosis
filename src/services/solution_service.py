@@ -6,24 +6,27 @@ import logging
 import requests
 
 
+solution_service_logger = logging.getLogger('solution-services')
+solution_service_logger.setLevel(logging.INFO)
+handler = logging.FileHandler('../logs/solution-services.log')
+handler.setFormatter(
+    logging.Formatter("%(asctime)s;%(levelname)s;%(message)s"))
+solution_service_logger.addHandler(handler)
+
+
 class SolutionService(object):
 
     def __init__(self):
         self.url = 'http://metabolitics.biodb.sehir.edu.tr/api3/'
-        self.logger = logging.getLogger('solution-services')
-        self.logger.setLevel(logging.INFO)
-        handler = logging.FileHandler('../logs/solution-services.log')
-        handler.setFormatter(
-            logging.Formatter("%(asctime)s;%(levelname)s;%(message)s"))
-        self.logger.addHandler(handler)
 
     def _get_key(self, concentration_changes: dict):
+        solution_service_logger.info(concentration_changes)
         data = self._key_request_body(concentration_changes)
         req = requests.post('%ssubsystems-analyze-start-async' % self.url,
                             data=json.dumps(data),
                             headers={'content-type': 'application/json'})
         key = req.json()
-        self.logger.info(key)
+        solution_service_logger.info(key)
         return key
 
     def _key_request_body(self, concentration_changes: dict):
@@ -40,9 +43,9 @@ class SolutionService(object):
         while req.text == 'null':
             time.sleep(10)
             req = requests.get('%ssubsystems-analyze/%s' % (self.url, key))
-            self.logger.info('data is not ready')
+            solution_service_logger.info('data is not ready')
         output_data = req.json()
-        self.logger.info('len(solution): %d' % len(output_data))
+        solution_service_logger.info('len(solution): %d' % len(output_data))
         return output_data
 
     def get_solution(self, concentration_changes: dict):

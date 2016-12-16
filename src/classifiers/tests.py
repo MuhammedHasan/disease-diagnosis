@@ -7,15 +7,13 @@ from .solution_level_disease_classifier import SolutionLevelDiseaseClassifier
 
 from sklearn.model_selection import train_test_split
 
+classification_logger = logging.getLogger('classification')
+classification_logger.setLevel(logging.INFO)
+classification_logger.addHandler(
+    logging.FileHandler('../logs/classification.log'))
+
 
 class TestMetaboliteLevelDiseaseClassifier(unittest.TestCase):
-
-    @classmethod
-    def setUpClass(cls):
-        cls.logger = logging.getLogger('classification')
-        cls.logger.setLevel(logging.INFO)
-        cls.logger.addHandler(
-            logging.FileHandler('../logs/classification.log'))
 
     def setUp(self):
         self.clf = MetaboliteLevelDiseaseClassifier()
@@ -27,17 +25,17 @@ class TestMetaboliteLevelDiseaseClassifier(unittest.TestCase):
         self.clf.fit(self.X_train, self.y_train)
 
     def test_accuracy(self):
-        self.logger.info('\n %s \n' % str(self.clf))
+        classification_logger.info('\n %s \n' % str(self.clf))
 
         train_accuracy = self.clf.score(self.X_train, self.y_train)
-        self.logger.info('train accuracy: %f' % train_accuracy)
+        classification_logger.info('train accuracy: %f' % train_accuracy)
 
         test_accuracy = self.clf.score(self.X_test, self.y_test)
-        self.logger.info('test accuracy: %f' % test_accuracy)
+        classification_logger.info('test accuracy: %f' % test_accuracy)
 
     def test_classification_report(self):
         cr = self.clf.classification_report(self.X_test, self.y_test)
-        self.logger.info('\n %s' % cr)
+        classification_logger.info('\n %s' % cr)
 
 
 class TestSolutionLevelDiseaseClassifier(unittest.TestCase):
@@ -53,15 +51,15 @@ class TestSolutionLevelDiseaseClassifier(unittest.TestCase):
 
     @unittest.skip('too long test')
     def test_accuracy(self):
-        self.logger.info('\n %s \n' % str(self.clf))
+        classification_logger.info('\n %s \n' % str(self.clf))
 
         train_accuracy = self.clf.score(self.X_train, self.y_train)
-        self.logger.info('train accuracy: %f' % train_accuracy)
+        classification_logger.info('train accuracy: %f' % train_accuracy)
 
         test_accuracy = self.clf.score(self.X_test, self.y_test)
-        self.logger.info('test accuracy: %f' % test_accuracy)
+        classification_logger.info('test accuracy: %f' % test_accuracy)
 
     @unittest.skip('too long test')
     def test_classification_report(self):
         cr = self.clf.classification_report(self.X_test, self.y_test)
-        self.logger.info('\n %s' % cr)
+        classification_logger.info('\n %s' % cr)
