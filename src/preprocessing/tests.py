@@ -57,12 +57,6 @@ class TestMetabolicSolutionScaler(unittest.TestCase):
         self.vict.fit(self.data)
         self.scaler = MetabolicSolutionScaler(self.vict)
 
-    def test_get_solutions(self):
-        solutions = self.scaler.get_solutions(self.data)
-        self.assertNotEqual(len(solutions), 0)
-        self.assertNotEqual(len(solutions[0]), 0)
-        self.assertNotEqual(len(next(iter(solutions[0].values()))), 0)
-
     def test_to_ecoli(self):
         self.scaler.to_ecolin(self.vict.transform(self.data))
 
