@@ -16,6 +16,7 @@ class TestSolutionService(unittest.TestCase):
         self.data = [{'acon_C_c': 1}, ]
         self.service = SolutionService()
 
+    @unittest.skip('too long tests')
     def test_get_solutions(self):
         solutions = self.service.get_solutions(self.data)
         self.assertNotEqual(len(solutions), 0)

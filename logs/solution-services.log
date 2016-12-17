@@ -1,0 +1,1327 @@
+2016-12-16 22:08:10,602;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 22:08:12,597;INFO;38d691b2-1094-41cf-ba49-fc61e5cf7cf2
+2016-12-16 22:08:22,637;INFO;data is not ready
+2016-12-16 22:08:32,653;INFO;data is not ready
+2016-12-16 22:08:42,678;INFO;data is not ready
+2016-12-16 22:08:52,704;INFO;data is not ready
+2016-12-16 22:09:02,838;INFO;data is not ready
+2016-12-16 22:09:12,855;INFO;data is not ready
+2016-12-16 22:09:22,988;INFO;data is not ready
+2016-12-16 22:09:33,005;INFO;data is not ready
+2016-12-16 22:09:43,341;INFO;data is not ready
+2016-12-16 22:09:53,361;INFO;data is not ready
+2016-12-16 22:10:03,385;INFO;data is not ready
+2016-12-16 22:10:13,409;INFO;data is not ready
+2016-12-16 22:10:23,446;INFO;data is not ready
+2016-12-16 22:10:33,481;INFO;data is not ready
+2016-12-16 22:10:43,620;INFO;data is not ready
+2016-12-16 22:10:43,621;INFO;len(solution): 184
+2016-12-16 22:10:43,621;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': 1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-16 22:10:43,714;INFO;869395d4-7e9f-4bb1-b1be-d7191fd25cfb
+2016-12-16 22:10:53,805;INFO;data is not ready
+2016-12-16 22:11:03,821;INFO;data is not ready
+2016-12-16 22:11:13,845;INFO;data is not ready
+2016-12-16 22:11:23,863;INFO;data is not ready
+2016-12-16 22:11:33,881;INFO;data is not ready
+2016-12-16 22:11:43,898;INFO;data is not ready
+2016-12-16 22:11:53,934;INFO;data is not ready
+2016-12-16 22:12:03,951;INFO;data is not ready
+2016-12-16 22:12:13,966;INFO;data is not ready
+2016-12-16 22:12:23,981;INFO;data is not ready
+2016-12-16 22:12:33,997;INFO;data is not ready
+2016-12-16 22:12:44,014;INFO;data is not ready
+2016-12-16 22:12:54,033;INFO;data is not ready
+2016-12-16 22:13:04,050;INFO;data is not ready
+2016-12-16 22:13:14,057;INFO;data is not ready
+2016-12-16 22:13:24,077;INFO;data is not ready
+2016-12-16 22:13:24,078;INFO;len(solution): 184
+2016-12-16 22:13:24,078;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-16 22:13:24,084;INFO;29189a92-4a04-4711-ac9b-1cd5377db29b
+2016-12-16 22:13:34,105;INFO;data is not ready
+2016-12-16 22:13:44,121;INFO;data is not ready
+2016-12-16 22:13:54,138;INFO;data is not ready
+2016-12-16 22:14:04,158;INFO;data is not ready
+2016-12-16 22:14:14,173;INFO;data is not ready
+2016-12-16 22:14:24,190;INFO;data is not ready
+2016-12-16 22:14:34,206;INFO;data is not ready
+2016-12-16 22:14:44,223;INFO;data is not ready
+2016-12-16 22:14:54,238;INFO;data is not ready
+2016-12-16 22:15:04,344;INFO;data is not ready
+2016-12-16 22:15:14,357;INFO;data is not ready
+2016-12-16 22:15:24,373;INFO;data is not ready
+2016-12-16 22:15:34,383;INFO;data is not ready
+2016-12-16 22:15:44,460;INFO;data is not ready
+2016-12-16 22:15:54,475;INFO;data is not ready
+2016-12-16 22:15:54,476;INFO;len(solution): 184
+2016-12-16 22:15:54,476;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': 1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 22:15:54,484;INFO;4117b5ff-8b23-45b1-89e2-80f5b9ab497c
+2016-12-16 22:16:04,513;INFO;data is not ready
+2016-12-16 22:16:14,534;INFO;data is not ready
+2016-12-16 22:16:24,599;INFO;data is not ready
+2016-12-16 22:16:34,619;INFO;data is not ready
+2016-12-16 22:16:44,635;INFO;data is not ready
+2016-12-16 22:16:54,649;INFO;data is not ready
+2016-12-16 22:17:04,661;INFO;data is not ready
+2016-12-16 22:17:14,676;INFO;data is not ready
+2016-12-16 22:17:24,684;INFO;data is not ready
+2016-12-16 22:17:34,699;INFO;data is not ready
+2016-12-16 22:17:44,750;INFO;data is not ready
+2016-12-16 22:17:54,775;INFO;data is not ready
+2016-12-16 22:18:04,790;INFO;data is not ready
+2016-12-16 22:18:14,802;INFO;data is not ready
+2016-12-16 22:18:24,821;INFO;data is not ready
+2016-12-16 22:18:24,822;INFO;len(solution): 184
+2016-12-16 22:18:24,822;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': 1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 22:18:24,829;INFO;b9e35f4b-ae8f-465a-b0e7-c65165475057
+2016-12-16 22:18:34,862;INFO;data is not ready
+2016-12-16 22:18:44,872;INFO;data is not ready
+2016-12-16 22:18:54,885;INFO;data is not ready
+2016-12-16 22:19:04,894;INFO;data is not ready
+2016-12-16 22:19:14,950;INFO;data is not ready
+2016-12-16 22:19:24,962;INFO;data is not ready
+2016-12-16 22:19:34,978;INFO;data is not ready
+2016-12-16 22:19:44,993;INFO;data is not ready
+2016-12-16 22:19:55,009;INFO;data is not ready
+2016-12-16 22:20:05,029;INFO;data is not ready
+2016-12-16 22:20:15,045;INFO;data is not ready
+2016-12-16 22:20:25,061;INFO;data is not ready
+2016-12-16 22:20:35,094;INFO;data is not ready
+2016-12-16 22:20:45,108;INFO;data is not ready
+2016-12-16 22:20:55,237;INFO;data is not ready
+2016-12-16 22:21:05,256;INFO;data is not ready
+2016-12-16 22:21:05,257;INFO;len(solution): 184
+2016-12-16 22:21:05,257;INFO;{'fru_e': -1.0, 'gln__L_c': 1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 22:21:05,318;INFO;9d619dde-63e4-4c56-b0ae-3bcdea6580c3
+2016-12-16 22:21:15,370;INFO;data is not ready
+2016-12-16 22:21:25,389;INFO;data is not ready
+2016-12-16 22:21:35,408;INFO;data is not ready
+2016-12-16 22:21:45,425;INFO;data is not ready
+2016-12-16 22:21:55,459;INFO;data is not ready
+2016-12-16 22:22:05,470;INFO;data is not ready
+2016-12-16 22:22:15,503;INFO;data is not ready
+2016-12-16 22:22:25,511;INFO;data is not ready
+2016-12-16 22:22:35,527;INFO;data is not ready
+2016-12-16 22:22:45,545;INFO;data is not ready
+2016-12-16 22:22:55,554;INFO;data is not ready
+2016-12-16 22:23:05,563;INFO;data is not ready
+2016-12-16 22:23:15,836;INFO;data is not ready
+2016-12-16 22:23:25,852;INFO;data is not ready
+2016-12-16 22:23:35,864;INFO;data is not ready
+2016-12-16 22:23:35,865;INFO;len(solution): 184
+2016-12-16 22:23:35,865;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': 1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': 1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': 1.0}
+2016-12-16 22:23:35,879;INFO;cd4ac590-7d12-4477-8adb-e0bd561fe399
+2016-12-16 22:23:45,897;INFO;data is not ready
+2016-12-16 22:23:55,947;INFO;data is not ready
+2016-12-16 22:24:05,962;INFO;data is not ready
+2016-12-16 22:24:15,981;INFO;data is not ready
+2016-12-16 22:24:26,172;INFO;data is not ready
+2016-12-16 22:24:36,190;INFO;data is not ready
+2016-12-16 22:24:46,250;INFO;data is not ready
+2016-12-16 22:24:56,281;INFO;data is not ready
+2016-12-16 22:25:06,334;INFO;data is not ready
+2016-12-16 22:25:16,366;INFO;data is not ready
+2016-12-16 22:25:26,379;INFO;data is not ready
+2016-12-16 22:25:36,394;INFO;data is not ready
+2016-12-16 22:25:46,410;INFO;data is not ready
+2016-12-16 22:25:56,542;INFO;data is not ready
+2016-12-16 22:26:06,562;INFO;data is not ready
+2016-12-16 22:26:06,563;INFO;len(solution): 184
+2016-12-16 22:26:06,563;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': 1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 22:26:06,572;INFO;a1bf4412-86a1-4a16-a1b3-c2688d4029ef
+2016-12-16 22:26:16,643;INFO;data is not ready
+2016-12-16 22:26:26,660;INFO;data is not ready
+2016-12-16 22:26:36,673;INFO;data is not ready
+2016-12-16 22:26:46,692;INFO;data is not ready
+2016-12-16 22:26:56,757;INFO;data is not ready
+2016-12-16 22:27:06,773;INFO;data is not ready
+2016-12-16 22:27:16,791;INFO;data is not ready
+2016-12-16 22:27:26,832;INFO;data is not ready
+2016-12-16 22:27:36,848;INFO;data is not ready
+2016-12-16 22:27:46,864;INFO;data is not ready
+2016-12-16 22:27:56,996;INFO;data is not ready
+2016-12-16 22:28:07,009;INFO;data is not ready
+2016-12-16 22:28:17,025;INFO;data is not ready
+2016-12-16 22:28:27,040;INFO;data is not ready
+2016-12-16 22:28:37,058;INFO;data is not ready
+2016-12-16 22:28:47,122;INFO;data is not ready
+2016-12-16 22:28:47,122;INFO;len(solution): 184
+2016-12-16 22:28:47,123;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-16 22:28:47,165;INFO;b12cc171-6ea4-4bd5-8c50-852af5b0ea61
+2016-12-16 22:28:57,190;INFO;data is not ready
+2016-12-16 22:29:07,294;INFO;data is not ready
+2016-12-16 22:29:17,309;INFO;data is not ready
+2016-12-16 22:29:27,325;INFO;data is not ready
+2016-12-16 22:29:37,339;INFO;data is not ready
+2016-12-16 22:29:47,357;INFO;data is not ready
+2016-12-16 22:29:57,372;INFO;data is not ready
+2016-12-16 22:30:07,389;INFO;data is not ready
+2016-12-16 22:30:17,406;INFO;data is not ready
+2016-12-16 22:30:27,424;INFO;data is not ready
+2016-12-16 22:30:37,432;INFO;data is not ready
+2016-12-16 22:30:47,453;INFO;data is not ready
+2016-12-16 22:30:57,469;INFO;data is not ready
+2016-12-16 22:31:07,485;INFO;data is not ready
+2016-12-16 22:31:17,501;INFO;data is not ready
+2016-12-16 22:31:17,502;INFO;len(solution): 184
+2016-12-16 22:31:17,502;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': 1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 22:31:17,509;INFO;bc63baa9-505e-458a-ba16-c87d48022487
+2016-12-16 22:31:27,541;INFO;data is not ready
+2016-12-16 22:31:37,552;INFO;data is not ready
+2016-12-16 22:31:47,568;INFO;data is not ready
+2016-12-16 22:31:57,584;INFO;data is not ready
+2016-12-16 22:32:07,601;INFO;data is not ready
+2016-12-16 22:32:17,609;INFO;data is not ready
+2016-12-16 22:32:27,627;INFO;data is not ready
+2016-12-16 22:32:37,756;INFO;data is not ready
+2016-12-16 22:32:47,769;INFO;data is not ready
+2016-12-16 22:32:57,781;INFO;data is not ready
+2016-12-16 22:33:07,789;INFO;data is not ready
+2016-12-16 22:33:17,839;INFO;data is not ready
+2016-12-16 22:33:27,856;INFO;data is not ready
+2016-12-16 22:33:37,869;INFO;data is not ready
+2016-12-16 22:33:47,915;INFO;data is not ready
+2016-12-16 22:33:57,939;INFO;data is not ready
+2016-12-16 22:33:57,941;INFO;len(solution): 184
+2016-12-16 22:33:57,941;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 22:33:57,952;INFO;4122c7bc-732c-4b6f-a34d-83203fa53396
+2016-12-16 22:34:07,977;INFO;data is not ready
+2016-12-16 22:34:17,992;INFO;data is not ready
+2016-12-16 22:34:28,004;INFO;data is not ready
+2016-12-16 22:34:38,020;INFO;data is not ready
+2016-12-16 22:34:48,033;INFO;data is not ready
+2016-12-16 22:34:58,049;INFO;data is not ready
+2016-12-16 22:35:08,063;INFO;data is not ready
+2016-12-16 22:35:18,102;INFO;data is not ready
+2016-12-16 22:35:28,117;INFO;data is not ready
+2016-12-16 22:35:38,131;INFO;data is not ready
+2016-12-16 22:35:48,185;INFO;data is not ready
+2016-12-16 22:35:58,198;INFO;data is not ready
+2016-12-16 22:36:08,209;INFO;data is not ready
+2016-12-16 22:36:18,225;INFO;data is not ready
+2016-12-16 22:36:28,358;INFO;data is not ready
+2016-12-16 22:36:38,375;INFO;data is not ready
+2016-12-16 22:36:38,375;INFO;len(solution): 184
+2016-12-16 22:36:38,375;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 22:36:38,431;INFO;a00a8e45-69a6-4a5f-b832-4581d9b386a3
+2016-12-16 22:36:48,455;INFO;data is not ready
+2016-12-16 22:36:58,473;INFO;data is not ready
+2016-12-16 22:37:08,541;INFO;data is not ready
+2016-12-16 22:37:18,550;INFO;data is not ready
+2016-12-16 22:37:28,561;INFO;data is not ready
+2016-12-16 22:37:38,576;INFO;data is not ready
+2016-12-16 22:37:48,593;INFO;data is not ready
+2016-12-16 22:37:58,638;INFO;data is not ready
+2016-12-16 22:38:08,684;INFO;data is not ready
+2016-12-16 22:38:18,740;INFO;data is not ready
+2016-12-16 22:38:28,753;INFO;data is not ready
+2016-12-16 22:38:38,787;INFO;data is not ready
+2016-12-16 22:38:48,801;INFO;data is not ready
+2016-12-16 22:38:58,815;INFO;data is not ready
+2016-12-16 22:39:08,832;INFO;data is not ready
+2016-12-16 22:39:18,851;INFO;data is not ready
+2016-12-16 22:39:18,852;INFO;len(solution): 184
+2016-12-16 22:39:18,856;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 22:39:18,917;INFO;0a64135a-a4a7-43bc-9357-96fa3619616f
+2016-12-16 22:39:28,967;INFO;data is not ready
+2016-12-16 22:39:38,984;INFO;data is not ready
+2016-12-16 22:39:48,999;INFO;data is not ready
+2016-12-16 22:39:59,009;INFO;data is not ready
+2016-12-16 22:40:09,025;INFO;data is not ready
+2016-12-16 22:40:19,040;INFO;data is not ready
+2016-12-16 22:40:29,091;INFO;data is not ready
+2016-12-16 22:40:39,105;INFO;data is not ready
+2016-12-16 22:40:49,113;INFO;data is not ready
+2016-12-16 22:40:59,176;INFO;data is not ready
+2016-12-16 22:41:09,193;INFO;data is not ready
+2016-12-16 22:41:19,210;INFO;data is not ready
+2016-12-16 22:41:29,228;INFO;data is not ready
+2016-12-16 22:41:39,318;INFO;data is not ready
+2016-12-16 22:41:49,337;INFO;data is not ready
+2016-12-16 22:41:59,348;INFO;data is not ready
+2016-12-16 22:41:59,349;INFO;len(solution): 184
+2016-12-16 22:41:59,349;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': 1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-16 22:41:59,403;INFO;872b428d-80eb-4e10-8f08-9149b40647df
+2016-12-16 22:42:09,425;INFO;data is not ready
+2016-12-16 22:42:19,436;INFO;data is not ready
+2016-12-16 22:42:29,450;INFO;data is not ready
+2016-12-16 22:42:39,459;INFO;data is not ready
+2016-12-16 22:42:49,476;INFO;data is not ready
+2016-12-16 22:42:59,493;INFO;data is not ready
+2016-12-16 22:43:09,507;INFO;data is not ready
+2016-12-16 22:43:19,524;INFO;data is not ready
+2016-12-16 22:43:29,536;INFO;data is not ready
+2016-12-16 22:43:39,718;INFO;data is not ready
+2016-12-16 22:43:49,739;INFO;data is not ready
+2016-12-16 22:43:59,872;INFO;data is not ready
+2016-12-16 22:44:09,888;INFO;data is not ready
+2016-12-16 22:44:19,905;INFO;data is not ready
+2016-12-16 22:44:29,938;INFO;data is not ready
+2016-12-16 22:44:39,956;INFO;data is not ready
+2016-12-16 22:44:39,956;INFO;len(solution): 184
+2016-12-16 22:44:39,956;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-16 22:44:39,967;INFO;e21cbefd-63b3-4eeb-9d49-71f73b027266
+2016-12-16 22:44:49,991;INFO;data is not ready
+2016-12-16 22:45:00,010;INFO;data is not ready
+2016-12-16 22:45:10,203;INFO;data is not ready
+2016-12-16 22:45:20,218;INFO;data is not ready
+2016-12-16 22:45:30,231;INFO;data is not ready
+2016-12-16 22:45:40,246;INFO;data is not ready
+2016-12-16 22:45:50,261;INFO;data is not ready
+2016-12-16 22:46:00,283;INFO;data is not ready
+2016-12-16 22:46:10,296;INFO;data is not ready
+2016-12-16 22:46:20,313;INFO;data is not ready
+2016-12-16 22:46:30,338;INFO;data is not ready
+2016-12-16 22:46:40,354;INFO;data is not ready
+2016-12-16 22:46:50,369;INFO;data is not ready
+2016-12-16 22:47:00,387;INFO;data is not ready
+2016-12-16 22:47:10,401;INFO;data is not ready
+2016-12-16 22:47:20,419;INFO;data is not ready
+2016-12-16 22:47:20,419;INFO;len(solution): 184
+2016-12-16 22:47:20,419;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': 1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 22:47:20,426;INFO;88939fac-2282-4434-bff2-c5c3b8bde9ad
+2016-12-16 22:47:30,446;INFO;data is not ready
+2016-12-16 22:47:40,465;INFO;data is not ready
+2016-12-16 22:47:50,482;INFO;data is not ready
+2016-12-16 22:48:00,498;INFO;data is not ready
+2016-12-16 22:48:10,570;INFO;data is not ready
+2016-12-16 22:48:20,588;INFO;data is not ready
+2016-12-16 22:48:30,596;INFO;data is not ready
+2016-12-16 22:48:40,612;INFO;data is not ready
+2016-12-16 22:48:50,620;INFO;data is not ready
+2016-12-16 22:49:00,632;INFO;data is not ready
+2016-12-16 22:49:10,643;INFO;data is not ready
+2016-12-16 22:49:20,659;INFO;data is not ready
+2016-12-16 22:49:30,667;INFO;data is not ready
+2016-12-16 22:49:40,828;INFO;data is not ready
+2016-12-16 22:49:50,844;INFO;data is not ready
+2016-12-16 22:50:00,858;INFO;data is not ready
+2016-12-16 22:50:00,859;INFO;len(solution): 184
+2016-12-16 22:50:00,859;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': 1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 22:50:00,873;INFO;584b8c0b-07dd-48b8-ab99-7951e13671fa
+2016-12-16 22:50:10,889;INFO;data is not ready
+2016-12-16 22:50:20,905;INFO;data is not ready
+2016-12-16 22:50:30,916;INFO;data is not ready
+2016-12-16 22:50:40,927;INFO;data is not ready
+2016-12-16 22:50:50,944;INFO;data is not ready
+2016-12-16 22:51:00,955;INFO;data is not ready
+2016-12-16 22:51:10,972;INFO;data is not ready
+2016-12-16 22:51:20,979;INFO;data is not ready
+2016-12-16 22:51:30,996;INFO;data is not ready
+2016-12-16 22:51:41,040;INFO;data is not ready
+2016-12-16 22:51:51,057;INFO;data is not ready
+2016-12-16 22:52:01,073;INFO;data is not ready
+2016-12-16 22:52:11,082;INFO;data is not ready
+2016-12-16 22:52:21,097;INFO;data is not ready
+2016-12-16 22:52:31,104;INFO;data is not ready
+2016-12-16 22:52:41,124;INFO;data is not ready
+2016-12-16 22:52:41,125;INFO;len(solution): 184
+2016-12-16 22:52:41,125;INFO;{'fru_e': -1.0, 'gln__L_c': 1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 22:52:41,133;INFO;0f94b60d-f739-4087-9b83-54c93efc9591
+2016-12-16 22:52:51,153;INFO;data is not ready
+2016-12-16 22:53:01,162;INFO;data is not ready
+2016-12-16 22:53:11,178;INFO;data is not ready
+2016-12-16 22:53:21,229;INFO;data is not ready
+2016-12-16 22:53:31,245;INFO;data is not ready
+2016-12-16 22:53:41,255;INFO;data is not ready
+2016-12-16 22:53:51,309;INFO;data is not ready
+2016-12-16 22:54:01,472;INFO;data is not ready
+2016-12-16 22:54:11,489;INFO;data is not ready
+2016-12-16 22:54:21,503;INFO;data is not ready
+2016-12-16 22:54:31,519;INFO;data is not ready
+2016-12-16 22:54:41,532;INFO;data is not ready
+2016-12-16 22:54:51,548;INFO;data is not ready
+2016-12-16 22:55:01,618;INFO;data is not ready
+2016-12-16 22:55:11,640;INFO;data is not ready
+2016-12-16 22:55:21,657;INFO;data is not ready
+2016-12-16 22:55:21,658;INFO;len(solution): 184
+2016-12-16 22:55:21,658;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': 1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': 1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': 1.0}
+2016-12-16 22:55:21,664;INFO;0d9d1fd3-01c0-46dd-a42c-2eef6d58c3f5
+2016-12-16 22:55:31,690;INFO;data is not ready
+2016-12-16 22:55:41,702;INFO;data is not ready
+2016-12-16 22:55:51,739;INFO;data is not ready
+2016-12-16 22:56:01,755;INFO;data is not ready
+2016-12-16 22:56:11,766;INFO;data is not ready
+2016-12-16 22:56:21,780;INFO;data is not ready
+2016-12-16 22:56:31,831;INFO;data is not ready
+2016-12-16 22:56:41,845;INFO;data is not ready
+2016-12-16 22:56:51,856;INFO;data is not ready
+2016-12-16 22:57:01,876;INFO;data is not ready
+2016-12-16 22:57:11,895;INFO;data is not ready
+2016-12-16 22:57:21,911;INFO;data is not ready
+2016-12-16 22:57:31,927;INFO;data is not ready
+2016-12-16 22:57:41,939;INFO;data is not ready
+2016-12-16 22:57:51,952;INFO;data is not ready
+2016-12-16 22:58:01,974;INFO;data is not ready
+2016-12-16 22:58:01,974;INFO;len(solution): 184
+2016-12-16 22:58:01,974;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': 1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 22:58:01,981;INFO;4cc5b7f6-7aed-4d5b-8424-8c7c759df976
+2016-12-16 22:58:12,005;INFO;data is not ready
+2016-12-16 22:58:22,021;INFO;data is not ready
+2016-12-16 22:58:32,163;INFO;data is not ready
+2016-12-16 22:58:42,182;INFO;data is not ready
+2016-12-16 22:58:52,198;INFO;data is not ready
+2016-12-16 22:59:02,216;INFO;data is not ready
+2016-12-16 22:59:12,237;INFO;data is not ready
+2016-12-16 22:59:22,253;INFO;data is not ready
+2016-12-16 22:59:32,269;INFO;data is not ready
+2016-12-16 22:59:42,278;INFO;data is not ready
+2016-12-16 22:59:52,295;INFO;data is not ready
+2016-12-16 23:00:02,331;INFO;data is not ready
+2016-12-16 23:00:12,348;INFO;data is not ready
+2016-12-16 23:00:22,377;INFO;data is not ready
+2016-12-16 23:00:32,395;INFO;data is not ready
+2016-12-16 23:00:42,417;INFO;data is not ready
+2016-12-16 23:00:42,418;INFO;len(solution): 184
+2016-12-16 23:00:42,418;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-16 23:00:42,425;INFO;f06ffffe-dc0a-4695-ab5b-a1c8ecfd61d9
+2016-12-16 23:00:52,447;INFO;data is not ready
+2016-12-16 23:01:02,461;INFO;data is not ready
+2016-12-16 23:01:12,477;INFO;data is not ready
+2016-12-16 23:01:22,492;INFO;data is not ready
+2016-12-16 23:01:32,513;INFO;data is not ready
+2016-12-16 23:01:42,524;INFO;data is not ready
+2016-12-16 23:01:52,546;INFO;data is not ready
+2016-12-16 23:02:02,566;INFO;data is not ready
+2016-12-16 23:02:12,587;INFO;data is not ready
+2016-12-16 23:02:22,598;INFO;data is not ready
+2016-12-16 23:02:32,608;INFO;data is not ready
+2016-12-16 23:02:42,625;INFO;data is not ready
+2016-12-16 23:02:52,632;INFO;data is not ready
+2016-12-16 23:03:02,655;INFO;data is not ready
+2016-12-16 23:03:12,774;INFO;data is not ready
+2016-12-16 23:03:22,800;INFO;data is not ready
+2016-12-16 23:03:22,802;INFO;len(solution): 184
+2016-12-16 23:03:22,802;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': 1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 23:03:22,813;INFO;4d3d08b3-8a48-42a2-bf74-d1371bb94d9e
+2016-12-16 23:03:32,845;INFO;data is not ready
+2016-12-16 23:03:42,862;INFO;data is not ready
+2016-12-16 23:03:52,880;INFO;data is not ready
+2016-12-16 23:04:03,011;INFO;data is not ready
+2016-12-16 23:04:13,026;INFO;data is not ready
+2016-12-16 23:04:23,043;INFO;data is not ready
+2016-12-16 23:04:33,059;INFO;data is not ready
+2016-12-16 23:04:43,102;INFO;data is not ready
+2016-12-16 23:04:53,117;INFO;data is not ready
+2016-12-16 23:05:08,140;INFO;data is not ready
+2016-12-16 23:05:18,158;INFO;data is not ready
+2016-12-16 23:05:28,188;INFO;data is not ready
+2016-12-16 23:05:38,205;INFO;data is not ready
+2016-12-16 23:05:48,224;INFO;data is not ready
+2016-12-16 23:05:58,249;INFO;data is not ready
+2016-12-16 23:05:58,251;INFO;len(solution): 184
+2016-12-16 23:05:58,251;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 23:05:58,266;INFO;3c7cff8b-4119-491b-b3af-ffe7a8276688
+2016-12-16 23:06:08,299;INFO;data is not ready
+2016-12-16 23:06:18,317;INFO;data is not ready
+2016-12-16 23:06:28,326;INFO;data is not ready
+2016-12-16 23:06:38,367;INFO;data is not ready
+2016-12-16 23:06:48,379;INFO;data is not ready
+2016-12-16 23:06:58,391;INFO;data is not ready
+2016-12-16 23:07:08,411;INFO;data is not ready
+2016-12-16 23:07:18,433;INFO;data is not ready
+2016-12-16 23:07:28,453;INFO;data is not ready
+2016-12-16 23:07:38,474;INFO;data is not ready
+2016-12-16 23:07:48,485;INFO;data is not ready
+2016-12-16 23:07:58,508;INFO;data is not ready
+2016-12-16 23:08:08,528;INFO;data is not ready
+2016-12-16 23:08:18,546;INFO;data is not ready
+2016-12-16 23:08:28,561;INFO;data is not ready
+2016-12-16 23:08:38,629;INFO;data is not ready
+2016-12-16 23:08:38,630;INFO;len(solution): 184
+2016-12-16 23:08:38,630;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 23:08:38,638;INFO;70ddac58-5474-42dd-8970-f804712372d9
+2016-12-16 23:08:48,668;INFO;data is not ready
+2016-12-16 23:08:58,690;INFO;data is not ready
+2016-12-16 23:09:08,701;INFO;data is not ready
+2016-12-16 23:09:18,717;INFO;data is not ready
+2016-12-16 23:09:28,728;INFO;data is not ready
+2016-12-16 23:09:38,750;INFO;data is not ready
+2016-12-16 23:09:48,769;INFO;data is not ready
+2016-12-16 23:09:58,792;INFO;data is not ready
+2016-12-16 23:10:08,811;INFO;data is not ready
+2016-12-16 23:10:18,825;INFO;data is not ready
+2016-12-16 23:10:28,838;INFO;data is not ready
+2016-12-16 23:10:38,859;INFO;data is not ready
+2016-12-16 23:10:48,879;INFO;data is not ready
+2016-12-16 23:10:58,902;INFO;data is not ready
+2016-12-16 23:11:08,938;INFO;data is not ready
+2016-12-16 23:11:18,961;INFO;data is not ready
+2016-12-16 23:11:18,963;INFO;len(solution): 184
+2016-12-16 23:11:18,974;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 23:11:19,000;INFO;f04b22ac-b42c-409e-911f-f219bcbc5fd0
+2016-12-16 23:11:29,020;INFO;data is not ready
+2016-12-16 23:11:39,043;INFO;data is not ready
+2016-12-16 23:11:49,064;INFO;data is not ready
+2016-12-16 23:11:59,079;INFO;data is not ready
+2016-12-16 23:12:09,103;INFO;data is not ready
+2016-12-16 23:12:19,122;INFO;data is not ready
+2016-12-16 23:12:29,144;INFO;data is not ready
+2016-12-16 23:12:39,166;INFO;data is not ready
+2016-12-16 23:12:49,181;INFO;data is not ready
+2016-12-16 23:12:59,218;INFO;data is not ready
+2016-12-16 23:13:09,243;INFO;data is not ready
+2016-12-16 23:13:19,257;INFO;data is not ready
+2016-12-16 23:13:29,276;INFO;data is not ready
+2016-12-16 23:13:39,299;INFO;data is not ready
+2016-12-16 23:13:49,320;INFO;data is not ready
+2016-12-16 23:13:59,338;INFO;data is not ready
+2016-12-16 23:13:59,340;INFO;len(solution): 184
+2016-12-16 23:13:59,340;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': 1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-16 23:13:59,351;INFO;a2fb22de-0d5d-4b84-9301-bc376d22193c
+2016-12-16 23:14:09,383;INFO;data is not ready
+2016-12-16 23:14:19,398;INFO;data is not ready
+2016-12-16 23:14:29,414;INFO;data is not ready
+2016-12-16 23:14:39,436;INFO;data is not ready
+2016-12-16 23:14:49,455;INFO;data is not ready
+2016-12-16 23:14:59,482;INFO;data is not ready
+2016-12-16 23:15:09,504;INFO;data is not ready
+2016-12-16 23:15:19,516;INFO;data is not ready
+2016-12-16 23:15:29,657;INFO;data is not ready
+2016-12-16 23:15:39,678;INFO;data is not ready
+2016-12-16 23:15:49,785;INFO;data is not ready
+2016-12-16 23:15:59,799;INFO;data is not ready
+2016-12-16 23:16:09,825;INFO;data is not ready
+2016-12-16 23:16:19,836;INFO;data is not ready
+2016-12-16 23:16:29,862;INFO;data is not ready
+2016-12-16 23:16:39,887;INFO;data is not ready
+2016-12-16 23:16:39,888;INFO;len(solution): 184
+2016-12-16 23:16:39,888;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-16 23:16:39,931;INFO;a6266829-1fe2-4531-b0e3-670af9fde129
+2016-12-16 23:16:49,965;INFO;data is not ready
+2016-12-16 23:17:00,106;INFO;data is not ready
+2016-12-16 23:17:10,124;INFO;data is not ready
+2016-12-16 23:17:20,203;INFO;data is not ready
+2016-12-16 23:17:30,302;INFO;data is not ready
+2016-12-16 23:17:40,479;INFO;data is not ready
+2016-12-16 23:17:50,496;INFO;data is not ready
+2016-12-16 23:18:00,531;INFO;data is not ready
+2016-12-16 23:18:10,543;INFO;data is not ready
+2016-12-16 23:18:20,553;INFO;data is not ready
+2016-12-16 23:18:30,565;INFO;data is not ready
+2016-12-16 23:18:40,598;INFO;data is not ready
+2016-12-16 23:18:50,618;INFO;data is not ready
+2016-12-16 23:19:00,640;INFO;data is not ready
+2016-12-16 23:19:10,677;INFO;data is not ready
+2016-12-16 23:19:20,701;INFO;data is not ready
+2016-12-16 23:19:20,702;INFO;len(solution): 184
+2016-12-16 23:19:20,702;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': 1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 23:19:20,713;INFO;9df61ca9-699b-432f-8c10-ff751e9a92cf
+2016-12-16 23:19:30,737;INFO;data is not ready
+2016-12-16 23:19:40,758;INFO;data is not ready
+2016-12-16 23:19:50,776;INFO;data is not ready
+2016-12-16 23:20:00,792;INFO;data is not ready
+2016-12-16 23:20:10,848;INFO;data is not ready
+2016-12-16 23:20:20,868;INFO;data is not ready
+2016-12-16 23:20:30,887;INFO;data is not ready
+2016-12-16 23:20:40,904;INFO;data is not ready
+2016-12-16 23:20:50,926;INFO;data is not ready
+2016-12-16 23:21:00,942;INFO;data is not ready
+2016-12-16 23:21:10,973;INFO;data is not ready
+2016-12-16 23:21:20,992;INFO;data is not ready
+2016-12-16 23:21:31,006;INFO;data is not ready
+2016-12-16 23:21:41,025;INFO;data is not ready
+2016-12-16 23:21:51,058;INFO;data is not ready
+2016-12-16 23:22:01,077;INFO;data is not ready
+2016-12-16 23:22:01,079;INFO;len(solution): 184
+2016-12-16 23:22:01,079;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': 1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 23:22:01,089;INFO;aa86af8f-807f-4a1e-b4b1-9b196726cd4f
+2016-12-16 23:22:11,117;INFO;data is not ready
+2016-12-16 23:22:21,134;INFO;data is not ready
+2016-12-16 23:22:31,153;INFO;data is not ready
+2016-12-16 23:22:41,244;INFO;data is not ready
+2016-12-16 23:22:51,386;INFO;data is not ready
+2016-12-16 23:23:01,406;INFO;data is not ready
+2016-12-16 23:23:11,421;INFO;data is not ready
+2016-12-16 23:23:21,444;INFO;data is not ready
+2016-12-16 23:23:31,460;INFO;data is not ready
+2016-12-16 23:23:41,522;INFO;data is not ready
+2016-12-16 23:23:51,538;INFO;data is not ready
+2016-12-16 23:24:01,690;INFO;data is not ready
+2016-12-16 23:24:11,706;INFO;data is not ready
+2016-12-16 23:24:21,721;INFO;data is not ready
+2016-12-16 23:24:31,784;INFO;data is not ready
+2016-12-16 23:24:41,799;INFO;data is not ready
+2016-12-16 23:24:41,799;INFO;len(solution): 184
+2016-12-16 23:24:41,799;INFO;{'fru_e': -1.0, 'gln__L_c': 1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 23:24:41,808;INFO;7a27ed2d-f72c-47a4-999e-ddfca885c124
+2016-12-16 23:24:51,830;INFO;data is not ready
+2016-12-16 23:25:01,846;INFO;data is not ready
+2016-12-16 23:25:11,864;INFO;data is not ready
+2016-12-16 23:25:21,880;INFO;data is not ready
+2016-12-16 23:25:31,891;INFO;data is not ready
+2016-12-16 23:25:41,981;INFO;data is not ready
+2016-12-16 23:25:51,992;INFO;data is not ready
+2016-12-16 23:26:02,005;INFO;data is not ready
+2016-12-16 23:26:12,023;INFO;data is not ready
+2016-12-16 23:26:22,031;INFO;data is not ready
+2016-12-16 23:26:32,045;INFO;data is not ready
+2016-12-16 23:26:42,062;INFO;data is not ready
+2016-12-16 23:26:52,080;INFO;data is not ready
+2016-12-16 23:27:02,091;INFO;data is not ready
+2016-12-16 23:27:12,105;INFO;data is not ready
+2016-12-16 23:27:22,124;INFO;data is not ready
+2016-12-16 23:27:22,125;INFO;len(solution): 184
+2016-12-16 23:27:22,125;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': 1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': 1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': 1.0}
+2016-12-16 23:27:22,131;INFO;ddbff005-83cf-4ca0-bb35-b689d563507a
+2016-12-16 23:27:32,258;INFO;data is not ready
+2016-12-16 23:27:42,289;INFO;data is not ready
+2016-12-16 23:27:52,334;INFO;data is not ready
+2016-12-16 23:28:02,349;INFO;data is not ready
+2016-12-16 23:28:12,359;INFO;data is not ready
+2016-12-16 23:28:22,372;INFO;data is not ready
+2016-12-16 23:28:32,392;INFO;data is not ready
+2016-12-16 23:28:42,408;INFO;data is not ready
+2016-12-16 23:28:52,424;INFO;data is not ready
+2016-12-16 23:29:02,441;INFO;data is not ready
+2016-12-16 23:29:12,461;INFO;data is not ready
+2016-12-16 23:29:22,477;INFO;data is not ready
+2016-12-16 23:29:32,495;INFO;data is not ready
+2016-12-16 23:29:42,513;INFO;data is not ready
+2016-12-16 23:29:52,523;INFO;data is not ready
+2016-12-16 23:30:02,542;INFO;data is not ready
+2016-12-16 23:30:02,543;INFO;len(solution): 184
+2016-12-16 23:30:02,543;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': 1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 23:30:02,550;INFO;ec389936-d89a-440b-a2c0-b61833638c5e
+2016-12-16 23:30:12,573;INFO;data is not ready
+2016-12-16 23:30:22,594;INFO;data is not ready
+2016-12-16 23:30:32,609;INFO;data is not ready
+2016-12-16 23:30:42,625;INFO;data is not ready
+2016-12-16 23:30:52,642;INFO;data is not ready
+2016-12-16 23:31:02,660;INFO;data is not ready
+2016-12-16 23:31:12,668;INFO;data is not ready
+2016-12-16 23:31:22,705;INFO;data is not ready
+2016-12-16 23:31:32,722;INFO;data is not ready
+2016-12-16 23:31:42,739;INFO;data is not ready
+2016-12-16 23:31:52,760;INFO;data is not ready
+2016-12-16 23:32:02,782;INFO;data is not ready
+2016-12-16 23:32:12,798;INFO;data is not ready
+2016-12-16 23:32:22,815;INFO;data is not ready
+2016-12-16 23:32:32,830;INFO;data is not ready
+2016-12-16 23:32:42,849;INFO;data is not ready
+2016-12-16 23:32:42,850;INFO;len(solution): 184
+2016-12-16 23:32:42,850;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-16 23:32:42,906;INFO;87039cb9-4428-49fd-b892-2838992f0123
+2016-12-16 23:32:52,931;INFO;data is not ready
+2016-12-16 23:33:02,948;INFO;data is not ready
+2016-12-16 23:33:12,965;INFO;data is not ready
+2016-12-16 23:33:22,981;INFO;data is not ready
+2016-12-16 23:33:32,998;INFO;data is not ready
+2016-12-16 23:33:43,021;INFO;data is not ready
+2016-12-16 23:33:53,037;INFO;data is not ready
+2016-12-16 23:34:03,053;INFO;data is not ready
+2016-12-16 23:34:13,177;INFO;data is not ready
+2016-12-16 23:34:23,194;INFO;data is not ready
+2016-12-16 23:34:33,211;INFO;data is not ready
+2016-12-16 23:34:43,230;INFO;data is not ready
+2016-12-16 23:34:53,260;INFO;data is not ready
+2016-12-16 23:35:03,278;INFO;data is not ready
+2016-12-16 23:35:13,294;INFO;data is not ready
+2016-12-16 23:35:23,314;INFO;data is not ready
+2016-12-16 23:35:23,314;INFO;len(solution): 184
+2016-12-16 23:35:23,314;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': 1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 23:35:23,321;INFO;39897e17-b296-4b0d-b689-489bd5b6fb83
+2016-12-16 23:35:33,346;INFO;data is not ready
+2016-12-16 23:35:43,363;INFO;data is not ready
+2016-12-16 23:35:53,432;INFO;data is not ready
+2016-12-16 23:36:03,448;INFO;data is not ready
+2016-12-16 23:36:13,461;INFO;data is not ready
+2016-12-16 23:36:23,597;INFO;data is not ready
+2016-12-16 23:36:33,611;INFO;data is not ready
+2016-12-16 23:36:43,625;INFO;data is not ready
+2016-12-16 23:36:53,641;INFO;data is not ready
+2016-12-16 23:37:03,657;INFO;data is not ready
+2016-12-16 23:37:13,675;INFO;data is not ready
+2016-12-16 23:37:23,715;INFO;data is not ready
+2016-12-16 23:37:33,728;INFO;data is not ready
+2016-12-16 23:37:43,744;INFO;data is not ready
+2016-12-16 23:37:53,760;INFO;data is not ready
+2016-12-16 23:38:03,779;INFO;data is not ready
+2016-12-16 23:38:03,780;INFO;len(solution): 184
+2016-12-16 23:38:03,780;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 23:38:03,834;INFO;4a5be230-338e-4568-ba11-b88e45a29660
+2016-12-16 23:38:13,853;INFO;data is not ready
+2016-12-16 23:38:23,861;INFO;data is not ready
+2016-12-16 23:38:33,868;INFO;data is not ready
+2016-12-16 23:38:43,885;INFO;data is not ready
+2016-12-16 23:38:53,904;INFO;data is not ready
+2016-12-16 23:39:03,930;INFO;data is not ready
+2016-12-16 23:39:13,947;INFO;data is not ready
+2016-12-16 23:39:23,961;INFO;data is not ready
+2016-12-16 23:39:33,969;INFO;data is not ready
+2016-12-16 23:39:43,984;INFO;data is not ready
+2016-12-16 23:39:53,994;INFO;data is not ready
+2016-12-16 23:40:04,050;INFO;data is not ready
+2016-12-16 23:40:14,066;INFO;data is not ready
+2016-12-16 23:40:24,077;INFO;data is not ready
+2016-12-16 23:40:34,108;INFO;data is not ready
+2016-12-16 23:40:44,130;INFO;data is not ready
+2016-12-16 23:40:44,130;INFO;len(solution): 184
+2016-12-16 23:40:44,130;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 23:40:44,137;INFO;d2bf1250-343c-42cc-b777-5f3b0d36d80f
+2016-12-16 23:40:54,162;INFO;data is not ready
+2016-12-16 23:41:04,177;INFO;data is not ready
+2016-12-16 23:41:14,188;INFO;data is not ready
+2016-12-16 23:41:24,205;INFO;data is not ready
+2016-12-16 23:41:34,221;INFO;data is not ready
+2016-12-16 23:41:44,240;INFO;data is not ready
+2016-12-16 23:41:54,253;INFO;data is not ready
+2016-12-16 23:42:04,269;INFO;data is not ready
+2016-12-16 23:42:14,279;INFO;data is not ready
+2016-12-16 23:42:24,296;INFO;data is not ready
+2016-12-16 23:42:34,462;INFO;data is not ready
+2016-12-16 23:42:44,473;INFO;data is not ready
+2016-12-16 23:42:54,498;INFO;data is not ready
+2016-12-16 23:43:04,518;INFO;data is not ready
+2016-12-16 23:43:14,535;INFO;data is not ready
+2016-12-16 23:43:24,569;INFO;data is not ready
+2016-12-16 23:43:24,569;INFO;len(solution): 184
+2016-12-16 23:43:24,574;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-16 23:43:24,582;INFO;72ec7589-d195-41d8-a4cd-2e4cc9037410
+2016-12-16 23:43:34,602;INFO;data is not ready
+2016-12-16 23:43:44,619;INFO;data is not ready
+2016-12-16 23:43:54,633;INFO;data is not ready
+2016-12-16 23:44:04,715;INFO;data is not ready
+2016-12-16 23:44:14,731;INFO;data is not ready
+2016-12-16 23:44:24,750;INFO;data is not ready
+2016-12-16 23:44:34,770;INFO;data is not ready
+2016-12-16 23:44:44,834;INFO;data is not ready
+2016-12-16 23:44:54,846;INFO;data is not ready
+2016-12-16 23:45:04,859;INFO;data is not ready
+2016-12-16 23:45:14,876;INFO;data is not ready
+2016-12-16 23:45:24,902;INFO;data is not ready
+2016-12-16 23:45:35,015;INFO;data is not ready
+2016-12-16 23:45:45,032;INFO;data is not ready
+2016-12-16 23:45:55,063;INFO;data is not ready
+2016-12-16 23:46:05,080;INFO;data is not ready
+2016-12-16 23:46:05,080;INFO;len(solution): 184
+2016-12-16 23:46:05,080;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-16 23:46:05,091;INFO;e6b40e64-8696-40b3-ba73-103cbad5ccb3
+2016-12-16 23:46:15,134;INFO;data is not ready
+2016-12-16 23:46:25,151;INFO;data is not ready
+2016-12-16 23:46:35,163;INFO;data is not ready
+2016-12-16 23:46:45,181;INFO;data is not ready
+2016-12-16 23:46:55,197;INFO;data is not ready
+2016-12-16 23:47:05,214;INFO;data is not ready
+2016-12-16 23:47:15,226;INFO;data is not ready
+2016-12-16 23:47:25,244;INFO;data is not ready
+2016-12-16 23:47:35,264;INFO;data is not ready
+2016-12-16 23:47:45,283;INFO;data is not ready
+2016-12-16 23:47:55,298;INFO;data is not ready
+2016-12-16 23:48:05,313;INFO;data is not ready
+2016-12-16 23:48:15,604;INFO;data is not ready
+2016-12-16 23:48:25,617;INFO;data is not ready
+2016-12-16 23:48:35,644;INFO;data is not ready
+2016-12-16 23:48:45,659;INFO;data is not ready
+2016-12-16 23:48:45,660;INFO;len(solution): 184
+2016-12-16 23:48:45,660;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 23:48:45,668;INFO;ea4ba3d2-776f-466b-8643-5a61941d6a3a
+2016-12-16 23:48:55,717;INFO;data is not ready
+2016-12-16 23:49:05,753;INFO;data is not ready
+2016-12-16 23:49:15,800;INFO;data is not ready
+2016-12-16 23:49:25,815;INFO;data is not ready
+2016-12-16 23:49:35,831;INFO;data is not ready
+2016-12-16 23:49:45,852;INFO;data is not ready
+2016-12-16 23:49:55,865;INFO;data is not ready
+2016-12-16 23:50:05,881;INFO;data is not ready
+2016-12-16 23:50:15,898;INFO;data is not ready
+2016-12-16 23:50:25,914;INFO;data is not ready
+2016-12-16 23:50:35,931;INFO;data is not ready
+2016-12-16 23:50:46,115;INFO;data is not ready
+2016-12-16 23:50:56,129;INFO;data is not ready
+2016-12-16 23:51:06,142;INFO;data is not ready
+2016-12-16 23:51:16,158;INFO;data is not ready
+2016-12-16 23:51:26,169;INFO;data is not ready
+2016-12-16 23:51:36,182;INFO;data is not ready
+2016-12-16 23:51:36,182;INFO;len(solution): 184
+2016-12-16 23:51:36,182;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': 1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 23:51:36,190;INFO;99a3a26b-6967-4757-aa74-2782aff4b383
+2016-12-16 23:51:46,214;INFO;data is not ready
+2016-12-16 23:51:56,228;INFO;data is not ready
+2016-12-16 23:52:06,246;INFO;data is not ready
+2016-12-16 23:52:16,262;INFO;data is not ready
+2016-12-16 23:52:26,279;INFO;data is not ready
+2016-12-16 23:52:36,291;INFO;data is not ready
+2016-12-16 23:52:46,309;INFO;data is not ready
+2016-12-16 23:52:56,326;INFO;data is not ready
+2016-12-16 23:53:06,342;INFO;data is not ready
+2016-12-16 23:53:16,354;INFO;data is not ready
+2016-12-16 23:53:26,370;INFO;data is not ready
+2016-12-16 23:53:36,387;INFO;data is not ready
+2016-12-16 23:53:46,418;INFO;data is not ready
+2016-12-16 23:53:56,434;INFO;data is not ready
+2016-12-16 23:54:06,451;INFO;data is not ready
+2016-12-16 23:54:16,467;INFO;data is not ready
+2016-12-16 23:54:16,468;INFO;len(solution): 184
+2016-12-16 23:54:16,490;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-16 23:54:16,497;INFO;1aedaff5-cc9b-433e-a7b1-0be61fb7d7a0
+2016-12-16 23:54:26,511;INFO;data is not ready
+2016-12-16 23:54:36,523;INFO;data is not ready
+2016-12-16 23:54:46,540;INFO;data is not ready
+2016-12-16 23:54:56,556;INFO;data is not ready
+2016-12-16 23:55:06,565;INFO;data is not ready
+2016-12-16 23:55:16,620;INFO;data is not ready
+2016-12-16 23:55:26,803;INFO;data is not ready
+2016-12-16 23:55:36,820;INFO;data is not ready
+2016-12-16 23:55:46,851;INFO;data is not ready
+2016-12-16 23:55:56,866;INFO;data is not ready
+2016-12-16 23:56:06,884;INFO;data is not ready
+2016-12-16 23:56:16,904;INFO;data is not ready
+2016-12-16 23:56:26,922;INFO;data is not ready
+2016-12-16 23:56:36,937;INFO;data is not ready
+2016-12-16 23:56:47,186;INFO;data is not ready
+2016-12-16 23:56:57,204;INFO;data is not ready
+2016-12-16 23:57:07,228;INFO;data is not ready
+2016-12-16 23:57:07,229;INFO;len(solution): 184
+2016-12-16 23:57:07,229;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': 1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-16 23:57:07,331;INFO;ffb0c597-33fc-4a40-8aaf-89314eafc865
+2016-12-16 23:57:17,446;INFO;data is not ready
+2016-12-16 23:57:27,461;INFO;data is not ready
+2016-12-16 23:57:37,478;INFO;data is not ready
+2016-12-16 23:57:47,497;INFO;data is not ready
+2016-12-16 23:57:57,515;INFO;data is not ready
+2016-12-16 23:58:07,537;INFO;data is not ready
+2016-12-16 23:58:17,590;INFO;data is not ready
+2016-12-16 23:58:27,629;INFO;data is not ready
+2016-12-16 23:58:37,641;INFO;data is not ready
+2016-12-16 23:58:47,651;INFO;data is not ready
+2016-12-16 23:58:57,664;INFO;data is not ready
+2016-12-16 23:59:07,685;INFO;data is not ready
+2016-12-16 23:59:17,702;INFO;data is not ready
+2016-12-16 23:59:27,717;INFO;data is not ready
+2016-12-16 23:59:37,741;INFO;data is not ready
+2016-12-16 23:59:47,771;INFO;data is not ready
+2016-12-16 23:59:57,791;INFO;data is not ready
+2016-12-16 23:59:57,792;INFO;len(solution): 184
+2016-12-16 23:59:57,792;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-16 23:59:57,848;INFO;c72f3c09-0c16-41fa-854d-ca5bd407cae2
+2016-12-17 00:00:07,924;INFO;data is not ready
+2016-12-17 00:00:17,942;INFO;data is not ready
+2016-12-17 00:00:27,958;INFO;data is not ready
+2016-12-17 00:00:37,969;INFO;data is not ready
+2016-12-17 00:00:47,999;INFO;data is not ready
+2016-12-17 00:00:58,018;INFO;data is not ready
+2016-12-17 00:01:08,033;INFO;data is not ready
+2016-12-17 00:01:18,080;INFO;data is not ready
+2016-12-17 00:01:28,107;INFO;data is not ready
+2016-12-17 00:01:38,123;INFO;data is not ready
+2016-12-17 00:01:48,138;INFO;data is not ready
+2016-12-17 00:01:58,153;INFO;data is not ready
+2016-12-17 00:02:08,166;INFO;data is not ready
+2016-12-17 00:02:18,260;INFO;data is not ready
+2016-12-17 00:02:28,274;INFO;data is not ready
+2016-12-17 00:02:38,294;INFO;data is not ready
+2016-12-17 00:02:38,294;INFO;len(solution): 184
+2016-12-17 00:02:38,294;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': 1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 00:02:38,301;INFO;68556650-6c86-4a64-a66e-873efcf0eb26
+2016-12-17 00:02:48,325;INFO;data is not ready
+2016-12-17 00:02:58,342;INFO;data is not ready
+2016-12-17 00:03:08,352;INFO;data is not ready
+2016-12-17 00:03:18,369;INFO;data is not ready
+2016-12-17 00:03:28,378;INFO;data is not ready
+2016-12-17 00:03:38,399;INFO;data is not ready
+2016-12-17 00:03:48,462;INFO;data is not ready
+2016-12-17 00:03:58,484;INFO;data is not ready
+2016-12-17 00:04:08,597;INFO;data is not ready
+2016-12-17 00:04:18,614;INFO;data is not ready
+2016-12-17 00:04:28,630;INFO;data is not ready
+2016-12-17 00:04:38,648;INFO;data is not ready
+2016-12-17 00:04:48,667;INFO;data is not ready
+2016-12-17 00:04:58,674;INFO;data is not ready
+2016-12-17 00:05:08,691;INFO;data is not ready
+2016-12-17 00:05:18,818;INFO;data is not ready
+2016-12-17 00:05:28,838;INFO;data is not ready
+2016-12-17 00:05:28,839;INFO;len(solution): 184
+2016-12-17 00:05:28,839;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': 1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 00:05:28,850;INFO;aa4de57a-c43e-4cec-81d6-9efe0a89b61e
+2016-12-17 00:05:38,873;INFO;data is not ready
+2016-12-17 00:05:48,916;INFO;data is not ready
+2016-12-17 00:05:58,930;INFO;data is not ready
+2016-12-17 00:06:09,026;INFO;data is not ready
+2016-12-17 00:06:19,064;INFO;data is not ready
+2016-12-17 00:06:29,091;INFO;data is not ready
+2016-12-17 00:06:39,110;INFO;data is not ready
+2016-12-17 00:06:49,150;INFO;data is not ready
+2016-12-17 00:06:59,165;INFO;data is not ready
+2016-12-17 00:07:09,177;INFO;data is not ready
+2016-12-17 00:07:19,198;INFO;data is not ready
+2016-12-17 00:07:29,220;INFO;data is not ready
+2016-12-17 00:07:39,252;INFO;data is not ready
+2016-12-17 00:07:49,368;INFO;data is not ready
+2016-12-17 00:07:59,385;INFO;data is not ready
+2016-12-17 00:08:09,404;INFO;data is not ready
+2016-12-17 00:08:19,424;INFO;data is not ready
+2016-12-17 00:08:19,424;INFO;len(solution): 184
+2016-12-17 00:08:19,424;INFO;{'fru_e': -1.0, 'gln__L_c': 1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 00:08:19,433;INFO;f967f307-93e3-4c2a-aab9-76313c578d37
+2016-12-17 00:08:29,458;INFO;data is not ready
+2016-12-17 00:08:39,477;INFO;data is not ready
+2016-12-17 00:08:49,520;INFO;data is not ready
+2016-12-17 00:08:59,535;INFO;data is not ready
+2016-12-17 00:09:09,552;INFO;data is not ready
+2016-12-17 00:09:19,571;INFO;data is not ready
+2016-12-17 00:09:29,586;INFO;data is not ready
+2016-12-17 00:09:39,605;INFO;data is not ready
+2016-12-17 00:09:49,639;INFO;data is not ready
+2016-12-17 00:09:59,655;INFO;data is not ready
+2016-12-17 00:10:09,672;INFO;data is not ready
+2016-12-17 00:10:19,680;INFO;data is not ready
+2016-12-17 00:10:29,697;INFO;data is not ready
+2016-12-17 00:10:39,888;INFO;data is not ready
+2016-12-17 00:10:49,921;INFO;data is not ready
+2016-12-17 00:10:59,934;INFO;data is not ready
+2016-12-17 00:11:09,953;INFO;data is not ready
+2016-12-17 00:11:09,953;INFO;len(solution): 184
+2016-12-17 00:11:09,953;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': 1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': 1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': 1.0}
+2016-12-17 00:11:09,961;INFO;1d6d65ef-f169-4f99-b152-b5af77f5856c
+2016-12-17 00:11:19,985;INFO;data is not ready
+2016-12-17 00:11:30,002;INFO;data is not ready
+2016-12-17 00:11:40,019;INFO;data is not ready
+2016-12-17 00:11:50,033;INFO;data is not ready
+2016-12-17 00:12:00,051;INFO;data is not ready
+2016-12-17 00:12:10,070;INFO;data is not ready
+2016-12-17 00:12:20,091;INFO;data is not ready
+2016-12-17 00:12:30,111;INFO;data is not ready
+2016-12-17 00:12:40,126;INFO;data is not ready
+2016-12-17 00:12:50,146;INFO;data is not ready
+2016-12-17 00:13:00,161;INFO;data is not ready
+2016-12-17 00:13:10,175;INFO;data is not ready
+2016-12-17 00:13:20,191;INFO;data is not ready
+2016-12-17 00:13:30,213;INFO;data is not ready
+2016-12-17 00:13:40,230;INFO;data is not ready
+2016-12-17 00:13:50,237;INFO;data is not ready
+2016-12-17 00:14:00,248;INFO;data is not ready
+2016-12-17 00:14:00,249;INFO;len(solution): 184
+2016-12-17 00:14:00,249;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': 1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 00:14:00,257;INFO;3cb177e6-a93b-477c-9bae-b41f7b6497e8
+2016-12-17 00:14:10,300;INFO;data is not ready
+2016-12-17 00:14:20,314;INFO;data is not ready
+2016-12-17 00:14:30,326;INFO;data is not ready
+2016-12-17 00:14:40,340;INFO;data is not ready
+2016-12-17 00:14:50,356;INFO;data is not ready
+2016-12-17 00:15:00,387;INFO;data is not ready
+2016-12-17 00:15:10,402;INFO;data is not ready
+2016-12-17 00:15:20,414;INFO;data is not ready
+2016-12-17 00:15:30,430;INFO;data is not ready
+2016-12-17 00:15:40,447;INFO;data is not ready
+2016-12-17 00:15:50,472;INFO;data is not ready
+2016-12-17 00:16:00,528;INFO;data is not ready
+2016-12-17 00:16:10,545;INFO;data is not ready
+2016-12-17 00:16:20,564;INFO;data is not ready
+2016-12-17 00:16:30,576;INFO;data is not ready
+2016-12-17 00:16:40,593;INFO;data is not ready
+2016-12-17 00:16:50,614;INFO;data is not ready
+2016-12-17 00:16:50,614;INFO;len(solution): 184
+2016-12-17 00:16:50,615;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-17 00:16:50,622;INFO;3088bc7b-f944-4377-a106-5d00ad03db39
+2016-12-17 00:17:00,704;INFO;data is not ready
+2016-12-17 00:17:10,737;INFO;data is not ready
+2016-12-17 00:17:20,754;INFO;data is not ready
+2016-12-17 00:17:30,890;INFO;data is not ready
+2016-12-17 00:17:40,905;INFO;data is not ready
+2016-12-17 00:17:50,921;INFO;data is not ready
+2016-12-17 00:18:00,939;INFO;data is not ready
+2016-12-17 00:18:10,960;INFO;data is not ready
+2016-12-17 00:18:20,979;INFO;data is not ready
+2016-12-17 00:18:30,995;INFO;data is not ready
+2016-12-17 00:18:41,013;INFO;data is not ready
+2016-12-17 00:18:51,068;INFO;data is not ready
+2016-12-17 00:19:01,084;INFO;data is not ready
+2016-12-17 00:19:11,103;INFO;data is not ready
+2016-12-17 00:19:21,112;INFO;data is not ready
+2016-12-17 00:19:31,122;INFO;data is not ready
+2016-12-17 00:19:41,137;INFO;data is not ready
+2016-12-17 00:19:41,138;INFO;len(solution): 184
+2016-12-17 00:19:41,138;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': 1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 00:19:41,145;INFO;a2e30aaf-266a-4b41-977c-d62514dd35b1
+2016-12-17 00:19:51,166;INFO;data is not ready
+2016-12-17 00:20:01,181;INFO;data is not ready
+2016-12-17 00:20:11,192;INFO;data is not ready
+2016-12-17 00:20:21,211;INFO;data is not ready
+2016-12-17 00:20:31,227;INFO;data is not ready
+2016-12-17 00:20:41,242;INFO;data is not ready
+2016-12-17 00:20:51,263;INFO;data is not ready
+2016-12-17 00:21:01,280;INFO;data is not ready
+2016-12-17 00:21:11,340;INFO;data is not ready
+2016-12-17 00:21:21,360;INFO;data is not ready
+2016-12-17 00:21:31,379;INFO;data is not ready
+2016-12-17 00:21:41,397;INFO;data is not ready
+2016-12-17 00:21:51,413;INFO;data is not ready
+2016-12-17 00:22:01,430;INFO;data is not ready
+2016-12-17 00:22:11,445;INFO;data is not ready
+2016-12-17 00:22:21,496;INFO;data is not ready
+2016-12-17 00:22:31,515;INFO;data is not ready
+2016-12-17 00:22:31,516;INFO;len(solution): 184
+2016-12-17 00:22:31,516;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 00:22:31,638;INFO;a0c43d35-5363-4109-b13a-8b7ca6ffaef0
+2016-12-17 00:22:41,701;INFO;data is not ready
+2016-12-17 00:22:51,715;INFO;data is not ready
+2016-12-17 00:23:01,748;INFO;data is not ready
+2016-12-17 00:23:11,804;INFO;data is not ready
+2016-12-17 00:23:21,889;INFO;data is not ready
+2016-12-17 00:23:31,910;INFO;data is not ready
+2016-12-17 00:23:41,932;INFO;data is not ready
+2016-12-17 00:23:51,989;INFO;data is not ready
+2016-12-17 00:24:02,082;INFO;data is not ready
+2016-12-17 00:24:12,100;INFO;data is not ready
+2016-12-17 00:24:22,183;INFO;data is not ready
+2016-12-17 00:24:32,197;INFO;data is not ready
+2016-12-17 00:24:42,214;INFO;data is not ready
+2016-12-17 00:24:52,298;INFO;data is not ready
+2016-12-17 00:25:02,354;INFO;data is not ready
+2016-12-17 00:25:12,387;INFO;data is not ready
+2016-12-17 00:25:22,407;INFO;data is not ready
+2016-12-17 00:25:22,408;INFO;len(solution): 184
+2016-12-17 00:25:22,408;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 00:25:22,418;INFO;74502a00-005c-45a3-b042-2f6e9023db82
+2016-12-17 00:25:32,441;INFO;data is not ready
+2016-12-17 00:25:42,620;INFO;data is not ready
+2016-12-17 00:25:52,634;INFO;data is not ready
+2016-12-17 00:26:02,648;INFO;data is not ready
+2016-12-17 00:26:12,664;INFO;data is not ready
+2016-12-17 00:26:22,692;INFO;data is not ready
+2016-12-17 00:26:32,710;INFO;data is not ready
+2016-12-17 00:26:42,752;INFO;data is not ready
+2016-12-17 00:26:52,770;INFO;data is not ready
+2016-12-17 00:27:02,792;INFO;data is not ready
+2016-12-17 00:27:12,808;INFO;data is not ready
+2016-12-17 00:27:22,824;INFO;data is not ready
+2016-12-17 00:27:32,834;INFO;data is not ready
+2016-12-17 00:27:42,861;INFO;data is not ready
+2016-12-17 00:27:53,001;INFO;data is not ready
+2016-12-17 00:28:03,017;INFO;data is not ready
+2016-12-17 00:28:13,051;INFO;data is not ready
+2016-12-17 00:28:13,052;INFO;len(solution): 184
+2016-12-17 00:28:13,056;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 00:28:13,064;INFO;46ae083c-6abc-417e-9c18-f317b42869cd
+2016-12-17 00:28:23,159;INFO;data is not ready
+2016-12-17 00:28:33,178;INFO;data is not ready
+2016-12-17 00:28:43,260;INFO;data is not ready
+2016-12-17 00:28:53,286;INFO;data is not ready
+2016-12-17 00:29:03,300;INFO;data is not ready
+2016-12-17 00:29:13,312;INFO;data is not ready
+2016-12-17 00:29:23,330;INFO;data is not ready
+2016-12-17 00:29:33,345;INFO;data is not ready
+2016-12-17 00:29:43,360;INFO;data is not ready
+2016-12-17 00:29:53,387;INFO;data is not ready
+2016-12-17 00:30:03,403;INFO;data is not ready
+2016-12-17 00:30:13,427;INFO;data is not ready
+2016-12-17 00:30:23,447;INFO;data is not ready
+2016-12-17 00:30:33,464;INFO;data is not ready
+2016-12-17 00:30:43,483;INFO;data is not ready
+2016-12-17 00:30:53,528;INFO;data is not ready
+2016-12-17 00:31:03,551;INFO;data is not ready
+2016-12-17 00:31:03,551;INFO;len(solution): 184
+2016-12-17 00:31:03,551;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': 1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-17 00:31:03,568;INFO;0df2e609-80e6-4822-bb13-b8dd152e3a36
+2016-12-17 00:31:13,592;INFO;data is not ready
+2016-12-17 00:31:23,609;INFO;data is not ready
+2016-12-17 00:31:33,626;INFO;data is not ready
+2016-12-17 00:31:43,644;INFO;data is not ready
+2016-12-17 00:31:53,657;INFO;data is not ready
+2016-12-17 00:32:03,673;INFO;data is not ready
+2016-12-17 00:32:13,689;INFO;data is not ready
+2016-12-17 00:32:23,709;INFO;data is not ready
+2016-12-17 00:32:33,796;INFO;data is not ready
+2016-12-17 00:32:43,805;INFO;data is not ready
+2016-12-17 00:32:53,819;INFO;data is not ready
+2016-12-17 00:33:03,836;INFO;data is not ready
+2016-12-17 00:33:13,845;INFO;data is not ready
+2016-12-17 00:33:23,863;INFO;data is not ready
+2016-12-17 00:33:33,877;INFO;data is not ready
+2016-12-17 00:33:43,887;INFO;data is not ready
+2016-12-17 00:33:53,903;INFO;data is not ready
+2016-12-17 00:33:53,904;INFO;len(solution): 184
+2016-12-17 00:33:53,904;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-17 00:33:53,916;INFO;a7f1b6f4-667b-4d19-a8da-c9e1178655bc
+2016-12-17 00:34:03,940;INFO;data is not ready
+2016-12-17 00:34:13,972;INFO;data is not ready
+2016-12-17 00:34:23,984;INFO;data is not ready
+2016-12-17 00:34:33,997;INFO;data is not ready
+2016-12-17 00:34:44,016;INFO;data is not ready
+2016-12-17 00:34:54,032;INFO;data is not ready
+2016-12-17 00:35:04,043;INFO;data is not ready
+2016-12-17 00:35:14,061;INFO;data is not ready
+2016-12-17 00:35:24,078;INFO;data is not ready
+2016-12-17 00:35:34,088;INFO;data is not ready
+2016-12-17 00:35:44,101;INFO;data is not ready
+2016-12-17 00:35:54,117;INFO;data is not ready
+2016-12-17 00:36:04,145;INFO;data is not ready
+2016-12-17 00:36:14,161;INFO;data is not ready
+2016-12-17 00:36:24,194;INFO;data is not ready
+2016-12-17 00:36:34,210;INFO;data is not ready
+2016-12-17 00:36:44,228;INFO;data is not ready
+2016-12-17 00:36:44,228;INFO;len(solution): 184
+2016-12-17 00:36:44,228;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': 1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 00:36:44,236;INFO;75658f7d-63bc-4965-81ae-ac32d5876ef7
+2016-12-17 00:36:54,257;INFO;data is not ready
+2016-12-17 00:37:04,273;INFO;data is not ready
+2016-12-17 00:37:14,296;INFO;data is not ready
+2016-12-17 00:37:24,310;INFO;data is not ready
+2016-12-17 00:37:34,327;INFO;data is not ready
+2016-12-17 00:37:44,346;INFO;data is not ready
+2016-12-17 00:37:54,362;INFO;data is not ready
+2016-12-17 00:38:04,375;INFO;data is not ready
+2016-12-17 00:38:14,392;INFO;data is not ready
+2016-12-17 00:38:24,410;INFO;data is not ready
+2016-12-17 00:38:34,429;INFO;data is not ready
+2016-12-17 00:38:44,446;INFO;data is not ready
+2016-12-17 00:38:54,461;INFO;data is not ready
+2016-12-17 00:39:04,477;INFO;data is not ready
+2016-12-17 00:39:14,496;INFO;data is not ready
+2016-12-17 00:39:24,509;INFO;data is not ready
+2016-12-17 00:39:34,542;INFO;data is not ready
+2016-12-17 00:39:34,542;INFO;len(solution): 184
+2016-12-17 00:39:34,542;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': 1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 00:39:34,566;INFO;9872c91b-bb56-43ad-ab45-a9ed3a644c81
+2016-12-17 00:39:44,594;INFO;data is not ready
+2016-12-17 00:39:54,613;INFO;data is not ready
+2016-12-17 00:40:04,635;INFO;data is not ready
+2016-12-17 00:40:14,649;INFO;data is not ready
+2016-12-17 00:40:24,657;INFO;data is not ready
+2016-12-17 00:40:34,676;INFO;data is not ready
+2016-12-17 00:40:44,729;INFO;data is not ready
+2016-12-17 00:40:54,745;INFO;data is not ready
+2016-12-17 00:41:04,759;INFO;data is not ready
+2016-12-17 00:41:14,775;INFO;data is not ready
+2016-12-17 00:41:24,999;INFO;data is not ready
+2016-12-17 00:41:35,015;INFO;data is not ready
+2016-12-17 00:41:45,039;INFO;data is not ready
+2016-12-17 00:41:55,055;INFO;data is not ready
+2016-12-17 00:42:05,072;INFO;data is not ready
+2016-12-17 00:42:15,091;INFO;data is not ready
+2016-12-17 00:42:25,107;INFO;data is not ready
+2016-12-17 00:42:25,108;INFO;len(solution): 184
+2016-12-17 00:42:25,108;INFO;{'fru_e': -1.0, 'gln__L_c': 1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 00:42:25,119;INFO;34d5b1db-d9d4-425c-8b99-12cc2312b827
+2016-12-17 00:42:35,185;INFO;data is not ready
+2016-12-17 00:42:45,202;INFO;data is not ready
+2016-12-17 00:42:55,217;INFO;data is not ready
+2016-12-17 00:43:05,236;INFO;data is not ready
+2016-12-17 00:43:15,252;INFO;data is not ready
+2016-12-17 00:43:25,270;INFO;data is not ready
+2016-12-17 00:43:35,276;INFO;data is not ready
+2016-12-17 00:43:45,293;INFO;data is not ready
+2016-12-17 00:43:55,310;INFO;data is not ready
+2016-12-17 00:44:05,338;INFO;data is not ready
+2016-12-17 00:44:15,348;INFO;data is not ready
+2016-12-17 00:44:25,364;INFO;data is not ready
+2016-12-17 00:44:35,381;INFO;data is not ready
+2016-12-17 00:44:45,390;INFO;data is not ready
+2016-12-17 00:44:55,407;INFO;data is not ready
+2016-12-17 00:45:05,423;INFO;data is not ready
+2016-12-17 00:45:15,440;INFO;data is not ready
+2016-12-17 00:45:15,441;INFO;len(solution): 184
+2016-12-17 00:45:15,441;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': 1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': 1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': 1.0}
+2016-12-17 00:45:15,496;INFO;306f9b2b-36fe-4095-8035-5378891ffb00
+2016-12-17 00:45:25,521;INFO;data is not ready
+2016-12-17 00:45:35,538;INFO;data is not ready
+2016-12-17 00:45:45,558;INFO;data is not ready
+2016-12-17 00:45:55,578;INFO;data is not ready
+2016-12-17 00:46:05,591;INFO;data is not ready
+2016-12-17 00:46:15,634;INFO;data is not ready
+2016-12-17 00:46:25,643;INFO;data is not ready
+2016-12-17 00:46:35,653;INFO;data is not ready
+2016-12-17 00:46:45,725;INFO;data is not ready
+2016-12-17 00:46:55,786;INFO;data is not ready
+2016-12-17 00:47:05,802;INFO;data is not ready
+2016-12-17 00:47:15,821;INFO;data is not ready
+2016-12-17 00:47:25,844;INFO;data is not ready
+2016-12-17 00:47:35,858;INFO;data is not ready
+2016-12-17 00:47:45,874;INFO;data is not ready
+2016-12-17 00:47:55,892;INFO;data is not ready
+2016-12-17 00:48:05,919;INFO;data is not ready
+2016-12-17 00:48:15,938;INFO;data is not ready
+2016-12-17 00:48:15,939;INFO;len(solution): 184
+2016-12-17 00:48:15,939;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': 1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 00:48:15,950;INFO;ca14fc4e-3c74-43c4-862f-c9551167fc68
+2016-12-17 00:48:25,979;INFO;data is not ready
+2016-12-17 00:48:35,992;INFO;data is not ready
+2016-12-17 00:48:46,006;INFO;data is not ready
+2016-12-17 00:48:56,030;INFO;data is not ready
+2016-12-17 00:49:06,156;INFO;data is not ready
+2016-12-17 00:49:16,168;INFO;data is not ready
+2016-12-17 00:49:26,187;INFO;data is not ready
+2016-12-17 00:49:36,204;INFO;data is not ready
+2016-12-17 00:49:46,213;INFO;data is not ready
+2016-12-17 00:49:56,228;INFO;data is not ready
+2016-12-17 00:50:06,248;INFO;data is not ready
+2016-12-17 00:50:16,265;INFO;data is not ready
+2016-12-17 00:50:26,299;INFO;data is not ready
+2016-12-17 00:50:36,311;INFO;data is not ready
+2016-12-17 00:50:46,329;INFO;data is not ready
+2016-12-17 00:50:56,347;INFO;data is not ready
+2016-12-17 00:51:06,428;INFO;data is not ready
+2016-12-17 00:51:16,449;INFO;data is not ready
+2016-12-17 00:51:16,450;INFO;len(solution): 184
+2016-12-17 00:51:16,450;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-17 00:51:16,458;INFO;031f12bf-8554-4942-94c6-f729e6b52076
+2016-12-17 00:51:26,490;INFO;data is not ready
+2016-12-17 00:51:36,496;INFO;data is not ready
+2016-12-17 00:51:46,514;INFO;data is not ready
+2016-12-17 00:51:56,675;INFO;data is not ready
+2016-12-17 00:52:06,769;INFO;data is not ready
+2016-12-17 00:52:16,882;INFO;data is not ready
+2016-12-17 00:52:26,898;INFO;data is not ready
+2016-12-17 00:52:36,913;INFO;data is not ready
+2016-12-17 00:52:46,929;INFO;data is not ready
+2016-12-17 00:52:56,956;INFO;data is not ready
+2016-12-17 00:53:06,973;INFO;data is not ready
+2016-12-17 00:53:16,989;INFO;data is not ready
+2016-12-17 00:53:27,012;INFO;data is not ready
+2016-12-17 00:53:37,031;INFO;data is not ready
+2016-12-17 00:53:47,041;INFO;data is not ready
+2016-12-17 00:53:57,057;INFO;data is not ready
+2016-12-17 00:54:07,182;INFO;data is not ready
+2016-12-17 00:54:17,195;INFO;data is not ready
+2016-12-17 00:54:17,196;INFO;len(solution): 184
+2016-12-17 00:54:17,196;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': 1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': 1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 00:54:17,251;INFO;353c2800-cbca-4f71-b1e6-7a04aa479834
+2016-12-17 00:54:27,278;INFO;data is not ready
+2016-12-17 00:54:37,293;INFO;data is not ready
+2016-12-17 00:54:47,312;INFO;data is not ready
+2016-12-17 00:54:57,327;INFO;data is not ready
+2016-12-17 00:55:07,337;INFO;data is not ready
+2016-12-17 00:55:17,350;INFO;data is not ready
+2016-12-17 00:55:27,365;INFO;data is not ready
+2016-12-17 00:55:37,385;INFO;data is not ready
+2016-12-17 00:55:47,440;INFO;data is not ready
+2016-12-17 00:55:57,452;INFO;data is not ready
+2016-12-17 00:56:07,464;INFO;data is not ready
+2016-12-17 00:56:17,477;INFO;data is not ready
+2016-12-17 00:56:27,485;INFO;data is not ready
+2016-12-17 00:56:37,501;INFO;data is not ready
+2016-12-17 00:56:47,518;INFO;data is not ready
+2016-12-17 00:56:57,567;INFO;data is not ready
+2016-12-17 00:57:07,602;INFO;data is not ready
+2016-12-17 00:57:17,616;INFO;data is not ready
+2016-12-17 00:57:17,616;INFO;len(solution): 184
+2016-12-17 00:57:17,616;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 00:57:17,623;INFO;c3c308b1-d284-40ac-b7f5-a43d3a547d81
+2016-12-17 00:57:27,698;INFO;data is not ready
+2016-12-17 00:57:37,716;INFO;data is not ready
+2016-12-17 00:57:47,734;INFO;data is not ready
+2016-12-17 00:57:57,750;INFO;data is not ready
+2016-12-17 00:58:07,764;INFO;data is not ready
+2016-12-17 00:58:17,778;INFO;data is not ready
+2016-12-17 00:58:27,794;INFO;data is not ready
+2016-12-17 00:58:37,814;INFO;data is not ready
+2016-12-17 00:58:47,831;INFO;data is not ready
+2016-12-17 00:58:57,972;INFO;data is not ready
+2016-12-17 00:59:07,985;INFO;data is not ready
+2016-12-17 00:59:18,006;INFO;data is not ready
+2016-12-17 00:59:28,023;INFO;data is not ready
+2016-12-17 00:59:38,041;INFO;data is not ready
+2016-12-17 00:59:48,057;INFO;data is not ready
+2016-12-17 00:59:58,255;INFO;data is not ready
+2016-12-17 01:00:08,324;INFO;data is not ready
+2016-12-17 01:00:18,632;INFO;data is not ready
+2016-12-17 01:00:18,632;INFO;len(solution): 184
+2016-12-17 01:00:18,632;INFO;{'fru_e': 1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': 1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 01:00:18,641;INFO;16216150-69f7-4339-a573-7a4a13ae95b7
+2016-12-17 01:00:28,893;INFO;data is not ready
+2016-12-17 01:00:38,909;INFO;data is not ready
+2016-12-17 01:00:48,925;INFO;data is not ready
+2016-12-17 01:00:58,937;INFO;data is not ready
+2016-12-17 01:01:08,954;INFO;data is not ready
+2016-12-17 01:01:18,968;INFO;data is not ready
+2016-12-17 01:01:28,981;INFO;data is not ready
+2016-12-17 01:01:39,041;INFO;data is not ready
+2016-12-17 01:01:49,058;INFO;data is not ready
+2016-12-17 01:01:59,075;INFO;data is not ready
+2016-12-17 01:02:09,093;INFO;data is not ready
+2016-12-17 01:02:19,192;INFO;data is not ready
+2016-12-17 01:02:29,209;INFO;data is not ready
+2016-12-17 01:02:39,225;INFO;data is not ready
+2016-12-17 01:02:49,241;INFO;data is not ready
+2016-12-17 01:02:59,258;INFO;data is not ready
+2016-12-17 01:03:09,274;INFO;data is not ready
+2016-12-17 01:03:19,293;INFO;data is not ready
+2016-12-17 01:03:19,294;INFO;len(solution): 184
+2016-12-17 01:03:19,299;INFO;{'fru_e': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-17 01:03:19,306;INFO;2c965c44-59c7-4ce5-9146-a7f3624fe205
+2016-12-17 01:03:29,322;INFO;data is not ready
+2016-12-17 01:03:39,421;INFO;data is not ready
+2016-12-17 01:03:49,438;INFO;data is not ready
+2016-12-17 01:03:59,457;INFO;data is not ready
+2016-12-17 01:04:09,473;INFO;data is not ready
+2016-12-17 01:04:19,566;INFO;data is not ready
+2016-12-17 01:04:29,581;INFO;data is not ready
+2016-12-17 01:04:39,599;INFO;data is not ready
+2016-12-17 01:04:49,614;INFO;data is not ready
+2016-12-17 01:04:59,631;INFO;data is not ready
+2016-12-17 01:05:09,647;INFO;data is not ready
+2016-12-17 01:05:19,655;INFO;data is not ready
+2016-12-17 01:05:29,673;INFO;data is not ready
+2016-12-17 01:05:39,690;INFO;data is not ready
+2016-12-17 01:05:49,703;INFO;data is not ready
+2016-12-17 01:05:59,717;INFO;data is not ready
+2016-12-17 01:06:09,774;INFO;data is not ready
+2016-12-17 01:06:19,791;INFO;data is not ready
+2016-12-17 01:06:29,805;INFO;data is not ready
+2016-12-17 01:06:29,805;INFO;len(solution): 184
+2016-12-17 01:06:29,805;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': 1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': 1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': 1.0, 'succ_c': -1.0}
+2016-12-17 01:06:29,855;INFO;80a348c3-cd14-4834-ab7c-bd1eb5bb0a00
+2016-12-17 01:06:39,879;INFO;data is not ready
+2016-12-17 01:06:49,886;INFO;data is not ready
+2016-12-17 01:06:59,903;INFO;data is not ready
+2016-12-17 01:07:09,920;INFO;data is not ready
+2016-12-17 01:07:19,937;INFO;data is not ready
+2016-12-17 01:07:29,947;INFO;data is not ready
+2016-12-17 01:07:39,962;INFO;data is not ready
+2016-12-17 01:07:49,978;INFO;data is not ready
+2016-12-17 01:07:59,997;INFO;data is not ready
+2016-12-17 01:08:10,021;INFO;data is not ready
+2016-12-17 01:08:20,066;INFO;data is not ready
+2016-12-17 01:08:30,165;INFO;data is not ready
+2016-12-17 01:08:40,184;INFO;data is not ready
+2016-12-17 01:08:50,201;INFO;data is not ready
+2016-12-17 01:09:00,218;INFO;data is not ready
+2016-12-17 01:09:10,229;INFO;data is not ready
+2016-12-17 01:09:20,343;INFO;data is not ready
+2016-12-17 01:09:30,358;INFO;data is not ready
+2016-12-17 01:09:40,419;INFO;data is not ready
+2016-12-17 01:09:40,420;INFO;len(solution): 184
+2016-12-17 01:09:40,420;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': -1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': 1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 01:09:40,428;INFO;c820dc43-52a6-49b1-8160-0e656b40f3f1
+2016-12-17 01:09:50,453;INFO;data is not ready
+2016-12-17 01:10:00,469;INFO;data is not ready
+2016-12-17 01:10:10,487;INFO;data is not ready
+2016-12-17 01:10:20,503;INFO;data is not ready
+2016-12-17 01:10:30,516;INFO;data is not ready
+2016-12-17 01:10:40,525;INFO;data is not ready
+2016-12-17 01:10:50,582;INFO;data is not ready
+2016-12-17 01:11:00,692;INFO;data is not ready
+2016-12-17 01:11:10,709;INFO;data is not ready
+2016-12-17 01:11:20,766;INFO;data is not ready
+2016-12-17 01:11:30,809;INFO;data is not ready
+2016-12-17 01:11:40,829;INFO;data is not ready
+2016-12-17 01:11:50,845;INFO;data is not ready
+2016-12-17 01:12:00,869;INFO;data is not ready
+2016-12-17 01:12:10,884;INFO;data is not ready
+2016-12-17 01:12:20,904;INFO;data is not ready
+2016-12-17 01:12:30,961;INFO;data is not ready
+2016-12-17 01:12:40,975;INFO;data is not ready
+2016-12-17 01:12:51,000;INFO;data is not ready
+2016-12-17 01:12:51,001;INFO;len(solution): 184
+2016-12-17 01:12:51,001;INFO;{'fru_e': -1.0, 'gln__L_c': -1.0, 'g3p_c': 1.0, 'lac__D_c': -1.0, 'etoh_e': -1.0, 'icit_c': -1.0, 'dhap_c': -1.0, 'cit_c': -1.0, 'oaa_c': -1.0, 'pyr_c': -1.0, 'glc__D_e': -1.0, 'fum_c': -1.0, 'succ_c': -1.0}
+2016-12-17 01:12:51,043;INFO;391bd08f-b4ce-4537-ad3d-02635b96d180
+2016-12-17 01:13:01,080;INFO;data is not ready
+2016-12-17 01:13:11,098;INFO;data is not ready
+2016-12-17 01:13:21,113;INFO;data is not ready
+2016-12-17 01:13:31,129;INFO;data is not ready
+2016-12-17 01:13:41,150;INFO;data is not ready
+2016-12-17 01:13:51,174;INFO;data is not ready
+2016-12-17 01:14:01,201;INFO;data is not ready
+2016-12-17 01:14:11,219;INFO;data is not ready
+2016-12-17 01:14:21,236;INFO;data is not ready
+2016-12-17 01:14:31,253;INFO;data is not ready
+2016-12-17 01:14:41,263;INFO;data is not ready
+2016-12-17 01:14:51,276;INFO;data is not ready
+2016-12-17 01:15:01,293;INFO;data is not ready
+2016-12-17 01:15:11,306;INFO;data is not ready
+2016-12-17 01:15:21,322;INFO;data is not ready
+2016-12-17 01:15:31,340;INFO;data is not ready
+2016-12-17 01:15:41,359;INFO;data is not ready
+2016-12-17 01:15:51,385;INFO;data is not ready
+2016-12-17 01:16:01,404;INFO;data is not ready
+2016-12-17 01:16:01,405;INFO;len(solution): 184

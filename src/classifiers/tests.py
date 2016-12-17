@@ -49,7 +49,7 @@ class TestSolutionLevelDiseaseClassifier(unittest.TestCase):
 
         self.clf.fit(self.X_train, self.y_train)
 
-    @unittest.skip('too long test')
+    # @unittest.skip('too long test')
     def test_accuracy(self):
         classification_logger.info('\n %s \n' % str(self.clf))
 
@@ -59,7 +59,7 @@ class TestSolutionLevelDiseaseClassifier(unittest.TestCase):
         test_accuracy = self.clf.score(self.X_test, self.y_test)
         classification_logger.info('test accuracy: %f' % test_accuracy)
 
-    @unittest.skip('too long test')
+    # @unittest.skip('too long test')
     def test_classification_report(self):
         cr = self.clf.classification_report(self.X_test, self.y_test)
         classification_logger.info('\n %s' % cr)
