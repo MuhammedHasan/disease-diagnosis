@@ -35,7 +35,7 @@ class MetabolicSolutionScaler(TransformerMixin):
     def to_ecolin(self, X):
         ''' Convert metabolite names to ecolin database ids '''
         X = self.vectorizer.inverse_transform(X)
-        with open('../dataset/ecolin-mapping.json') as f:
+        with open('../dataset/naming/ecolin-mapping.json') as f:
             ecolin_mapping = json.load(f)
             return [
                 {ecolin_mapping[k]:v for k, v in x.items()

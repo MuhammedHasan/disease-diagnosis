@@ -26,7 +26,7 @@ class SolutionService(object):
                             data=json.dumps(data),
                             headers={'content-type': 'application/json'})
         key = req.json()
-        solution_service_logger.info(key)
+        solution_service_logger.info('provides key for data: %s' % key)
         return key
 
     def _key_request_body(self, concentration_changes: dict):
@@ -43,7 +43,7 @@ class SolutionService(object):
         while req.text == 'null':
             time.sleep(10)
             req = requests.get('%ssubsystems-analyze/%s' % (self.url, key))
-            solution_service_logger.info('data is not ready')
+            solution_service_logger.info('data is not ready for key: %s' % key)
         output_data = req.json()
         solution_service_logger.info('len(solution): %d' % len(output_data))
         return output_data

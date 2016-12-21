@@ -12,7 +12,6 @@ class SolutionLevelDiseaseClassifier(BaseDiseaseClassifier):
     def __init__(self):
         super().__init__()
         vectorizer = DictVectorizer(sparse=False)
-        self.path = '../dataset/small-disease'
         self._pipe = Pipeline([
             ('vect', vectorizer),
             ('scaler_change', MetabolicChangeScaler()),
