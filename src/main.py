@@ -1,3 +1,17 @@
-from scritps import solution_for_dataset
+import click
 
-solution_for_dataset()
+import scritps
+
+
+@click.group()
+def cli():
+    pass
+
+
+@cli.command()
+def naming_issue():
+    scritps.naming_issue()
+
+
+if __name__ == '__main__':
+    cli()

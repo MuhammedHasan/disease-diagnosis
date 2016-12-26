@@ -5,6 +5,7 @@ from sklearn.feature_extraction import DictVectorizer
 from .metabolic_standard_scaler import MetabolicStandardScaler
 from .metabolic_change_scaler import MetabolicChangeScaler
 from .metabolic_solution_scaler import MetabolicSolutionScaler
+from .most_active_pathway_scaler import MostActivePathwayScaler
 
 
 class TestMetabolicStandardScaler(unittest.TestCase):
@@ -30,6 +31,7 @@ class TestMetabolicChangeScaler(unittest.TestCase):
                   [1,   1, -1,  3],
                   [1,   1,  3,  5],
                   [1,   1,  3,  0]]
+
         self.y = ['bc', 'bc', 'bc', 'h', 'h']
 
     def test_fit(self):
@@ -57,10 +59,13 @@ class TestMetabolicSolutionScaler(unittest.TestCase):
         self.vict.fit(self.data)
         self.scaler = MetabolicSolutionScaler(self.vict)
 
-    def test_to_ecoli(self):
-        self.scaler.to_ecolin(self.vict.transform(self.data))
 
-    def test__pathway_activation_score(self):
+class TestMostActivePathwayScaler(unittest.TestCase):
+
+    def setUp(self):
+        self.scaler = MostActivePathwayScaler()
+
+    def test_transform(self):
         solutions = [{
             's1': ['a', 'b', 'c', 'd'],
             's2': ['b', 'c', 'd'],
@@ -68,7 +73,6 @@ class TestMetabolicSolutionScaler(unittest.TestCase):
             's4': ['a', 'c', 'd']
         }]
 
-        scores = self.scaler._pathway_activation_score(solutions)
+        scores = self.scaler.transform(solutions)
         expected_scores = [{'a': 2, 'b': 3, 'c': 4, 'd': 3}]
-
         self.assertEqual(expected_scores, scores)

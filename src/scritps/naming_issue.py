@@ -1,37 +1,27 @@
-import json
-
-econ_names = json.load(open('../dataset/naming/ecolin-mapping.json'))
-econ_names = set([k for k, v in econ_names.items() if v != ''])
-
-human_names = json.load(open('../dataset/naming/human-mapping.json'))
-human_names = set([k for k, v in human_names.items() if v != ''])
-
-bc_names = set(open('../dataset/disease/BC.csv').readline().split(','))
-hcc_names = set(open('../dataset/disease/HCC.csv').readline().split(','))
+from services import NamingService, DataReader
 
 
-print('hcc matching bc:', hcc_names.intersection(bc_names))
-print('hcc matching bc len:', len(hcc_names.intersection(bc_names)))
-print()
+def report_matching(a, b, a_name, b_name):
+    print('%s matching %s:' % (a_name, b_name), a.intersection(b))
+    print('%s matching %s len:' % (a_name, b_name), len(a.intersection(b)))
+    print()
 
-print('-' * 10, 'ecolin', '-' * 10)
-print('bc matching database names:', bc_names.intersection(econ_names))
-print('bc matching database names len:',
-      len(bc_names.intersection(econ_names)))
-print()
 
-print('hcc matching database names:', hcc_names.intersection(econ_names))
-print('hcc matching database names len:',
-      len(hcc_names.intersection(econ_names)))
-print()
+def naming_issue():
 
-print('-' * 10, 'human', '-' * 10)
-print('bc matching database names:', bc_names.intersection(human_names))
-print('bc matching database names len:',
-      len(bc_names.intersection(human_names)))
-print()
+    econ_names = set(NamingService('ecolin')._names.keys())
+    human_names = set(NamingService('human')._names.keys())
 
-print('hcc matching database names:', hcc_names.intersection(human_names))
-print('hcc matching database names len:',
-      len(hcc_names.intersection(human_names)))
-print()
+    dr = DataReader()
+    bc_names = set(i.lower().strip() for i in dr.read_columns('BC'))
+    hcc_names = set(i.lower().strip() for i in dr.read_columns('HCC'))
+
+    report_matching(hcc_names, bc_names, 'hcc', 'bc')
+
+    print('-' * 10, 'ecolin', '-' * 10)
+    report_matching(hcc_names, econ_names, 'hcc', '')
+    report_matching(bc_names, econ_names, 'bc', '')
+
+    print('-' * 10, 'human', '-' * 10)
+    report_matching(hcc_names, human_names, 'hcc', '')
+    report_matching(bc_names, human_names, 'bc', '')
