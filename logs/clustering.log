@@ -1,0 +1,143 @@
+
+ <object object at 0x7f39ac8853c0> 
+
+train accuracy: 0.406650
+
+              precision    recall  f1-score   support
+
+         bc       0.23      0.04      0.06       138
+          h       0.36      0.69      0.47       147
+        hcc       0.63      0.49      0.55       106
+
+avg / total       0.39      0.41      0.35       391
+
+
+ <object object at 0x7f8527465270> 
+
+train accuracy: 0.406650
+
+              precision    recall  f1-score   support
+
+         bc       0.23      0.04      0.06       138
+          h       0.36      0.69      0.47       147
+        hcc       0.63      0.49      0.55       106
+
+avg / total       0.39      0.41      0.35       391
+
+
+ <object object at 0x7f3f3d597250> 
+
+train accuracy: 0.406650
+
+              precision    recall  f1-score   support
+
+         bc       0.23      0.04      0.06       138
+          h       0.36      0.69      0.47       147
+        hcc       0.63      0.49      0.55       106
+
+avg / total       0.39      0.41      0.35       391
+
+
+ <object object at 0x7efd352e43c0> 
+
+train accuracy: 0.406650
+
+              precision    recall  f1-score   support
+
+         bc       0.23      0.04      0.06       138
+          h       0.36      0.69      0.47       147
+        hcc       0.63      0.49      0.55       106
+
+avg / total       0.39      0.41      0.35       391
+
+
+ <object object at 0x7f4ae4bf7250> 
+
+train accuracy: 0.406650
+
+              precision    recall  f1-score   support
+
+         bc       0.23      0.04      0.06       138
+          h       0.36      0.69      0.47       147
+        hcc       0.63      0.49      0.55       106
+
+avg / total       0.39      0.41      0.35       391
+
+
+ <object object at 0x7f1e2b9d93c0> 
+
+train accuracy: 0.406650
+
+              precision    recall  f1-score   support
+
+         bc       0.23      0.04      0.06       138
+          h       0.36      0.69      0.47       147
+        hcc       0.63      0.49      0.55       106
+
+avg / total       0.39      0.41      0.35       391
+
+
+ <object object at 0x7fd3a55d53c0> 
+
+train accuracy: 0.406650
+
+              precision    recall  f1-score   support
+
+         bc       0.23      0.04      0.06       138
+          h       0.36      0.69      0.47       147
+        hcc       0.63      0.49      0.55       106
+
+avg / total       0.39      0.41      0.35       391
+
+
+ <object object at 0x7f1514290270> 
+
+train accuracy: 0.406650
+
+              precision    recall  f1-score   support
+
+         bc       0.23      0.04      0.06       138
+          h       0.36      0.69      0.47       147
+        hcc       0.63      0.49      0.55       106
+
+avg / total       0.39      0.41      0.35       391
+
+
+ <object object at 0x7f4ab9e1c270> 
+
+train accuracy: 0.406650
+
+              precision    recall  f1-score   support
+
+         bc       0.23      0.04      0.06       138
+          h       0.36      0.69      0.47       147
+        hcc       0.63      0.49      0.55       106
+
+avg / total       0.39      0.41      0.35       391
+
+
+ <object object at 0x7f751c1343c0> 
+
+train accuracy: 0.406650
+
+              precision    recall  f1-score   support
+
+         bc       0.23      0.04      0.06       138
+          h       0.36      0.69      0.47       147
+        hcc       0.63      0.49      0.55       106
+
+avg / total       0.39      0.41      0.35       391
+
+
+ <object object at 0x7fc2d40263c0> 
+
+train accuracy: 0.406650
+
+              precision    recall  f1-score   support
+
+         bc       0.23      0.04      0.06       138
+          h       0.36      0.69      0.47       147
+        hcc       0.63      0.49      0.55       106
+
+avg / total       0.39      0.41      0.35       391
+

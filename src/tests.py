@@ -9,6 +9,10 @@ from classifiers.tests import TestSolutionLevelDiseaseClassifier
 from classifiers.tests import TestFromSolutionSolutionLevelDiseaseClassifier
 from classifiers.tests import TestDummyClassifier
 
+from clustering.tests import TestMetaboliteLevelDiseaseClustering
+
+from metrics.test import TestExtendedJaccard
+
 from services.tests import TestSolutionService
 from services.tests import TestNamingService
 from services.tests import TestDataReader
